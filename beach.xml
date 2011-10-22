@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<beaches xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Beaches_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X039 </Prop_ID>
+   <Name> Orchard Beach and Promenade </Name>
+   <Location> On Long Island Sound in Pelham Bay Park </Location>
+   <Phone> (718) 885-2275 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available in Section 5. </Accessible_Notes>
+   <Barbecue_Allowed> Yes (Cornelia Avenue and Luten Avenue) </Barbecue_Allowed>
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path />
+   <Boardwalk />
+   <Concession_Stand />
+   <Performance_Pavilion />
+   <Directions> BUS: Bx12, Bx29, Bx5, Bx52, and Westchester Line number 45 serve the park. Orchard Beach is served by the Bx5 and Bx12 buses during the summer only. During the winter, take the Bx29 to the City Island Circle and walk to the beach.&lt;br /&gt;
+SUBWAY: Take the 6 line to its last stop, Pelham Bay Park. Connect to bus (see above).&lt;br /&gt;
+PARKING: Parking is $6.00 Monday through Friday and $8.00 on weekends and holidays. </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> B251 </Prop_ID>
+   <Name> Manhattan Beach </Name>
+   <Location> On Atlantic Ocean, Oriental Blvd., from Ocean Avenue to Mackenzie Street </Location>
+   <Phone> (718) 946-1373 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available on the east side of the beach, near the picnic tables. </Accessible_Notes>
+   <Barbecue_Allowed> Yes (Northeast of promenade, median adjacent to parking lot, and Oriental Boulevard &amp; Hastings Street) </Barbecue_Allowed>
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path> Yes (only permitted from 5:00 a.m.-10:00 a.m.) </Bicycle_and_Skate_Path>
+   <Boardwalk> Yes (promenade) </Boardwalk>
+   <Concession_Stand> Yes </Concession_Stand>
+   <Performance_Pavilion />
+   <Directions> BUS: B1 from Brighton&lt;br /&gt;
+SUBWAY: Q Train to Sheepshead Bay Road. B49 to Cheapside to Oriental and Hastings Street.&lt;br /&gt;
+PARKING: Exit 8 off Belt Parkway and follow signs to parking: $6.00 Monday through Friday and $10 weekends and holidays. </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> B169 </Prop_ID>
+   <Name> Brighton Beach &#38; Coney Island and Coney Island Boardwalk </Name>
+   <Location> On Atlantic Ocean, from W. 37th Street to Corbin Place </Location>
+   <Phone> (718) 946-1350 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available at Brighton 2nd Street and at Stillwell Avenue. </Accessible_Notes>
+   <Barbecue_Allowed />
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path> Yes (only permitted from 5:00 a.m.-10:00 a.m.) </Bicycle_and_Skate_Path>
+   <Boardwalk> Yes (Coney Island, closed 1:00 a.m.-5:00 a.m.) </Boardwalk>
+   <Concession_Stand> Yes </Concession_Stand>
+   <Performance_Pavilion> Yes </Performance_Pavilion>
+   <Directions> BUS: B36, B64, B68, B74, B82, X28, X29, X38&lt;br /&gt;
+SUBWAY: D, F, N, Q to Coney Island-Stillwell Avenue; F, Q to West 8th Street-NY Aquarium; Q to Ocean Parkway.&lt;br /&gt;
+PARKING: Free street parking </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> Q162 </Prop_ID>
+   <Name> Rockaway Beach and Boardwalk </Name>
+   <Location> On Atlantic Ocean, from Beach 9th Street, Far Rockaway, to Beach 149th Street, Neponsit </Location>
+   <Phone> (718) 318-4000 </Phone>
+   <Surf> Y </Surf>
+   <Note> Surf beaches are located between 67-69 Street and 87-92 Street.&lt;br /&gt;
+Please note that additional rules apply to the surf beaches:  &lt;a href=&quot;/sub_things_to_do/facilities/images/pdf/RockawaySurfBeachRules.pdf&quot;&gt;Download Surf Beach Rules (PDF, 323KB)&lt;/a&gt; </Note>
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available at Beach 17th Street, 116th Street, and 131 Street. </Accessible_Notes>
+   <Barbecue_Allowed />
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path> Yes (except between 10:00 a.m. and 6:00 p.m. on Saturdays and Sundays between May 1 and September 30) </Bicycle_and_Skate_Path>
+   <Boardwalk> Yes (closed 10:00 p.m.-6:00 a.m.) </Boardwalk>
+   <Concession_Stand> Yes </Concession_Stand>
+   <Performance_Pavilion />
+   <Directions> BUS: Q22 from bus terminal on Archer Avenue.&lt;br /&gt;
+SUBWAY: A to Broad Channel then shuttle train.&lt;br /&gt;
+PARKING: Free parking lots at B. 11th to B. 15th Street and B. 95th Street; free street parking. </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> R046 </Prop_ID>
+   <Name> South Beach </Name>
+   <Location> On Lower New York Bay, from Fort Wadsworth to Miller Field, Midland Beach </Location>
+   <Phone> (718) 816-6804 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available at Jefferson Avenue &amp; Father Capodanno Boulevard. </Accessible_Notes>
+   <Barbecue_Allowed />
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path> Yes (only permitted from 5:00 a.m.-10:00 a.m.) </Bicycle_and_Skate_Path>
+   <Boardwalk />
+   <Concession_Stand> Yes </Concession_Stand>
+   <Performance_Pavilion />
+   <Directions> BUS: 51 or 52&lt;br /&gt;
+SUBWAY: NONE&lt;br /&gt;
+PARKING: Free parking lots </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> R031 </Prop_ID>
+   <Name> Wolfe's Pond Beach </Name>
+   <Location> On Raritan Bay and Prince's Bay, Holton to Cornelia Avenues </Location>
+   <Phone> (718) 984-8266 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are two informal ramps that can be used for wheelchair access. </Accessible_Notes>
+   <Barbecue_Allowed />
+   <Bathroom />
+   <Bicycle_and_Skate_Path />
+   <Boardwalk />
+   <Concession_Stand />
+   <Performance_Pavilion />
+   <Directions> BUS: #78 to Tottenville and get out at Cornelia and Highland Blvd and walk up Cornelia&lt;br /&gt;
+SUBWAY: Get on Staten Island Transit and take it to the Hugenot Avenue stop and then walk down toward Highland Boulevard.&lt;br /&gt;
+PARKING: Free parking lot </Directions>
+  </facility>
+  <facility>
+   <Prop_ID> R046 </Prop_ID>
+   <Name> Midland Beach and Franklin D. Roosevelt Boardwalk </Name>
+   <Location> On Lower New York Bay, from Fort Wadsworth to Miller Field, Midland Beach </Location>
+   <Phone> (718) 987-0709 </Phone>
+   <Surf />
+   <Note />
+   <Accessible> Y </Accessible>
+   <Accessible_Notes> There are beach mats available at Jefferson Avenue &amp; Father Capodanno Boulevard. </Accessible_Notes>
+   <Barbecue_Allowed> Yes (Midland Avenue and Lincoln Avenue) </Barbecue_Allowed>
+   <Bathroom> Yes </Bathroom>
+   <Bicycle_and_Skate_Path> Yes (only permitted from 5:00 a.m.-10:00 a.m.) </Bicycle_and_Skate_Path>
+   <Boardwalk> Yes (closed 9:00 p.m.-6:00 a.m.) </Boardwalk>
+   <Concession_Stand />
+   <Performance_Pavilion />
+   <Directions> BUS: 51 or 52&lt;br /&gt;
+SUBWAY: NONE&lt;br /&gt;
+PARKING: Free parking lots </Directions>
+  </facility>
+ </facilities>
+
+</beaches>

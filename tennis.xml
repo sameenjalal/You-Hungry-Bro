@@ -1,0 +1,864 @@
+<?xml version="1.0"?>
+<tennis xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Tennis_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X002 </Prop_ID>
+   <Name> Bronx Park </Name>
+   <Location> Bronx Park East and Brady Ave. </Location>
+   <Phone> (718) 430-1821 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X010 </Prop_ID>
+   <Name> Crotona Park </Name>
+   <Location> E. 173d St. and Crotona Ave. </Location>
+   <Phone> (718) 294-2516 </Phone>
+   <Courts> 20 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X196 </Prop_ID>
+   <Name> Haffen Park </Name>
+   <Location> Hammersley, Ely &amp; Gunther Aves. </Location>
+   <Phone> (718) 379-8347 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X039 </Prop_ID>
+   <Name> Pelham Bay Park </Name>
+   <Location> Bruckner Blvd. and Middletown Rd. </Location>
+   <Phone> (718) 885-3442 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X201 </Prop_ID>
+   <Name> Seton Park </Name>
+   <Location> W. 232nd to 235th St., Palisade and Independence Aves. </Location>
+   <Phone> (718) 822-4317 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X044 </Prop_ID>
+   <Name> St. James Park </Name>
+   <Location> Jerome Ave. and E. 193d St. </Location>
+   <Phone> (718) 822-4271 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> X045 </Prop_ID>
+   <Name> St. Mary's Park </Name>
+   <Location> E. 145 St. and St. Ann's Ave. </Location>
+   <Phone> (718) 402-5161 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt Park </Name>
+   <Location> Stadium - W. 242nd St. and Broadway </Location>
+   <Phone> (718) 549-6494 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt Park </Name>
+   <Location> Woodlawn, W. 233rd St. &amp; Jerome Ave. </Location>
+   <Phone> (718) 549-6494 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X104 </Prop_ID>
+   <Name> Williamsbridge Oval </Name>
+   <Location> E. 208th St. and Bainbridge Ave. </Location>
+   <Phone> (718) 654-1851 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> X039-99 </Prop_ID>
+   <Name> Orchard Beach </Name>
+   <Location> 1 Orchard Beach Road </Location>
+   <Phone> (718) 885-3247 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B007 </Prop_ID>
+   <Name> Bensonhurst Park </Name>
+   <Location> Cropsey Ave. &amp; Bay Pkwy. </Location>
+   <Phone> (718) 946-5048 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B007 </Prop_ID>
+   <Name> Breakpoint Tennis Center in Bensonhurst </Name>
+   <Location> 9000 Bay Parkway (off Belt Parkway) </Location>
+   <Phone> (718) 372-6878 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Indoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons offered. Courts will not be available for permit from October 18 through April 27. Please call for more information. </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B215 </Prop_ID>
+   <Name> Decatur Playground </Name>
+   <Location> Decatur bet. Summer and Lewis Aves. </Location>
+   <Phone> (718) 493-7612 </Phone>
+   <Courts> 1 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B028 </Prop_ID>
+   <Name> Lucille Ferrera Tennis Courts (Dyker Beach Park) </Name>
+   <Location> Cropsey Avenue, Bay 8th Street and Poly Place </Location>
+   <Phone> (718) 259-4016 </Phone>
+   <Courts> 9 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B032 </Prop_ID>
+   <Name> Ft. Greene Park </Name>
+   <Location> DeKalb &amp; S. Portland Aves. </Location>
+   <Phone> (718) 722-3218 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B372 </Prop_ID>
+   <Name> Friends Field </Name>
+   <Location> Ave. L &amp; East 4th St. </Location>
+   <Phone> (718) 965-6502 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B294 </Prop_ID>
+   <Name> Jackie Robinson </Name>
+   <Location> Malcolm X. Blvd. &amp; Chauncey St. </Location>
+   <Phone> (718) 493-7612 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B210W-03 </Prop_ID>
+   <Name> J.J. Carty </Name>
+   <Location> 95 Street &amp; Fort Hamilton Pkwy. </Location>
+   <Phone> (718) 439-4296 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B166D </Prop_ID>
+   <Name> Joseph T. McGuire Park </Name>
+   <Location> Avenue W and Bergen </Location>
+   <Phone />
+   <Courts> 3 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B129 </Prop_ID>
+   <Name> Kaiser Playground </Name>
+   <Location> Neptune Ave. &amp; W. 25th St. </Location>
+   <Phone> (718) 946-1350 </Phone>
+   <Courts> 12 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B157 </Prop_ID>
+   <Name> Kelly Playground </Name>
+   <Location> Ave. S &amp; E.14th St. </Location>
+   <Phone> (718) 946-1373 </Phone>
+   <Courts> 7 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type />
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B052 </Prop_ID>
+   <Name> Leif Ericson Park </Name>
+   <Location> 8th Ave. &amp; 66th St. </Location>
+   <Phone> (718) 259-4016 </Phone>
+   <Courts> 9 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B054 </Prop_ID>
+   <Name> Lincoln Terrace Park </Name>
+   <Location> Buffalo &amp; Rochester Aves. </Location>
+   <Phone> (718) 804-7077 </Phone>
+   <Courts> 11 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B214 </Prop_ID>
+   <Name> Linden Playground </Name>
+   <Location> Linden Blvd. &amp; Vermont St. </Location>
+   <Phone> (718) 927-2059 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B251 </Prop_ID>
+   <Name> Manhattan Beach </Name>
+   <Location> Oriental Blvd. </Location>
+   <Phone> (718) 946-1373 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B057 </Prop_ID>
+   <Name> Marine Park </Name>
+   <Location> Fillmore Ave. &amp; Stuart St. </Location>
+   <Phone> (718) 376-1675 </Phone>
+   <Courts> 15 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B058 </Prop_ID>
+   <Name> McCarren Park </Name>
+   <Location> North 13th Street Between Bedford and Berry </Location>
+   <Phone />
+   <Courts> 7 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B244 </Prop_ID>
+   <Name> McDonald Avenue Playground </Name>
+   <Location> McDonald Ave. &amp; Ave. S </Location>
+   <Phone> (718) 946-1373 </Phone>
+   <Courts> 7 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B060 </Prop_ID>
+   <Name> McKinley Park </Name>
+   <Location> 7th Ave. &amp; 75th St. </Location>
+   <Phone> (718) 259-4016 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B050 </Prop_ID>
+   <Name> One Van Voorhees Park </Name>
+   <Location> Pacific, Congress and Hicks Streets </Location>
+   <Phone> (718) 722-3213 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> B073 </Prop_ID>
+   <Name> Prospect Park Tennis Center </Name>
+   <Location> Parkside Ave at the Parade Ground </Location>
+   <Phone> (718) 436-2500 </Phone>
+   <Courts> 11 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Clay </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> 9 clay courts; 2 har-tru courts. Lessons, leagues, &amp; indoor tennis also available.  For more information, visit the &lt;a href=&quot;http://www.prospectpark.org/tennis&quot;&gt;Prospect Park Alliance tennis page&lt;/a&gt;. </Info>
+  </facility>
+  <facility>
+   <Prop_ID> B082 </Prop_ID>
+   <Name> Shore Road Playground </Name>
+   <Location> Shore Rd. &amp; 95th St. </Location>
+   <Phone> (718) 259-4016 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Central Park </Name>
+   <Location> 93d St. near West Drive </Location>
+   <Phone> (212) 280-0205 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Central Park </Name>
+   <Location> 93d St. near West Drive </Location>
+   <Phone> (212) 280-0205 </Phone>
+   <Courts> 26 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Fast Dry </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> M144 </Prop_ID>
+   <Name> East River Park </Name>
+   <Location> At Houston St. (walk east over FDR Drive) </Location>
+   <Phone> (212) 529-7185 </Phone>
+   <Courts> 12 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> M028 </Prop_ID>
+   <Name> Fort Washington Park </Name>
+   <Location> Hudson River at 170th St. </Location>
+   <Phone> (212) 304-2322 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> M159 </Prop_ID>
+   <Name> Frederick Johnson Playground </Name>
+   <Location> 151st St. east of 7th Ave. </Location>
+   <Phone> (212) 234-9609 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> M042 </Prop_ID>
+   <Name> Inwood Hill Park </Name>
+   <Location> 207th St. and Seaman Ave. </Location>
+   <Phone> (212) 304-2381 </Phone>
+   <Courts> 9 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> X344 </Prop_ID>
+   <Name> Mill Pond Park </Name>
+   <Location> Gateway Center Boulevard (Exterior Street) and East 150th Street </Location>
+   <Phone> (718) 665-2171 </Phone>
+   <Courts> 16 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> M071 </Prop_ID>
+   <Name> Riverside Park </Name>
+   <Location> Riverside Drive and W. 96th St. </Location>
+   <Phone> (212) 978-0277 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Clay </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> M071 </Prop_ID>
+   <Name> Riverside Park </Name>
+   <Location> Riverside Drive and W. 119th St. </Location>
+   <Phone> (212) 978-0277 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q001 </Prop_ID>
+   <Name> Alley Pond Park </Name>
+   <Location> Union Turnpike, Grand Central Parkway &amp; Winchester Blvd. </Location>
+   <Phone> (718) 264-2600 </Phone>
+   <Courts> 16 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q004 </Prop_ID>
+   <Name> Astoria Park </Name>
+   <Location> 21st St. &amp; Hoyt Ave. </Location>
+   <Phone> (718) 626-8622 </Phone>
+   <Courts> 14 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q005 </Prop_ID>
+   <Name> Baisley Park </Name>
+   <Location> 155th St. &amp; 118th Ave. </Location>
+   <Phone> (718) 520-5314 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q005 </Prop_ID>
+   <Name> Baisley South </Name>
+   <Location> N. Conduit Ave. &amp; 150th St. </Location>
+   <Phone> (718) 520-5314 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q460 </Prop_ID>
+   <Name> Broad Channel Park </Name>
+   <Location> Crossbay Blvd. and E. 16-E. 18 Rds. </Location>
+   <Phone> (718) 318-4000 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q008 </Prop_ID>
+   <Name> Brookville Park </Name>
+   <Location> Brookville Blvd. &amp; Southern Pkwy. </Location>
+   <Phone> (718) 978-5702 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q012 </Prop_ID>
+   <Name> Crocheron Park </Name>
+   <Location> 215th Place &amp; 33rd Ave. </Location>
+   <Phone> (718) 225-2620 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q021 </Prop_ID>
+   <Name> Cunningham Park </Name>
+   <Location> Union Tpk. &amp; 193rd St. </Location>
+   <Phone> (718) 740-6800 </Phone>
+   <Courts> 20 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q121 </Prop_ID>
+   <Name> Det. Keith L. Williams Park </Name>
+   <Location> Liberty Ave. &amp; 173rd St. </Location>
+   <Phone> (718) 520-6912 </Phone>
+   <Courts> 10 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q086 </Prop_ID>
+   <Name> Flushing Fields Memorial </Name>
+   <Location> 149th St. &amp; 25th Ave. </Location>
+   <Phone> (718) 461-3695 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q015 </Prop_ID>
+   <Name> Forest Park </Name>
+   <Location> Park Lane South &amp; 89th St. </Location>
+   <Phone> (718) 846-4946 </Phone>
+   <Courts> 14 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q020 </Prop_ID>
+   <Name> Highland Park- Lower Playground </Name>
+   <Location> Elton St. &amp; Jamaica Ave. </Location>
+   <Phone> (718) 235-4378 </Phone>
+   <Courts> 13 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q102 </Prop_ID>
+   <Name> Juniper Valley Park </Name>
+   <Location> 62nd Ave. &amp; 80th St. </Location>
+   <Phone> (718) 326-2877 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q024 </Prop_ID>
+   <Name> Kissena Park </Name>
+   <Location> Rose &amp; Oak Aves. </Location>
+   <Phone> (718) 359-1297 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q024 </Prop_ID>
+   <Name> Kissena Park </Name>
+   <Location> Rose &amp; Oak Aves. </Location>
+   <Phone> (718) 359-1297 </Phone>
+   <Courts> 8 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hartro </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons Offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q369 </Prop_ID>
+   <Name> Louis Pasteur Park </Name>
+   <Location> 52 Ave. &amp; Marathon Pkwy. </Location>
+   <Phone />
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q007 </Prop_ID>
+   <Name> Michaelis Bayswater Park </Name>
+   <Location> 32nd St. &amp; Dickens Ave. </Location>
+   <Phone> (718) 318-4020 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q131 </Prop_ID>
+   <Name> Maurice Park </Name>
+   <Location> Maurice Ave., LIE Service Rd. Westbound </Location>
+   <Phone> (718) 326-2877 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q092 </Prop_ID>
+   <Name> Police Officer Edward Byrne Park </Name>
+   <Location> North Conduit Ave. &amp; 134-135 Street </Location>
+   <Phone />
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q371 </Prop_ID>
+   <Name> Rockaway Community Park </Name>
+   <Location> Alamdea Ave. btwn B51 &amp; B56 </Location>
+   <Phone> (718) 318-4000 </Phone>
+   <Courts> 3 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q448 </Prop_ID>
+   <Name> Roy Wilkins Park </Name>
+   <Location> Merrick Blvd. &amp; 119 Ave. </Location>
+   <Phone> (718) 276-8690 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q107 </Prop_ID>
+   <Name> Springfield Park </Name>
+   <Location> 147 Ave. &amp; Springfield Ave. </Location>
+   <Phone> (718) 723-6156 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q051 </Prop_ID>
+   <Name> St. Albans Park </Name>
+   <Location> Merrick Blvd. &amp; 172nd St. </Location>
+   <Phone> (718) 478-1364 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q413 </Prop_ID>
+   <Name> Victor Hanson Community Center (Rochdale Park) </Name>
+   <Location> Guy Brewer Blvd. &amp; 134th Ave. </Location>
+   <Phone> (718) 978-1536 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q303 </Prop_ID>
+   <Name> Travers Park </Name>
+   <Location> 77 &amp; 78 Sts. at 34 Ave. &amp; Northern Blvd </Location>
+   <Phone />
+   <Courts> 1 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q373 </Prop_ID>
+   <Name> East Elmhurst (PS 127) </Name>
+   <Location> 25 Ave. &amp; 98 St.-100 St. </Location>
+   <Phone />
+   <Courts> 1 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> Q099 </Prop_ID>
+   <Name> Flushing Meadows Corona Park </Name>
+   <Location> Flushing Meadows Corona Park </Location>
+   <Phone> (718) 760-6999 </Phone>
+   <Courts> 11 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info> Lessons offered </Info>
+  </facility>
+  <facility>
+   <Prop_ID> R123 </Prop_ID>
+   <Name> Skyline Park </Name>
+   <Location> Arnold St. &amp; Prospect Ave. </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> All Weather </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> R022 </Prop_ID>
+   <Name> Silver Lake Park </Name>
+   <Location> Hart Blvd. &amp; Revere St. </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 4 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> All Weather </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> R015 </Prop_ID>
+   <Name> Walker Park </Name>
+   <Location> Bard Ave. &amp; Delafield Place </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> All Weather </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> R030 </Prop_ID>
+   <Name> Willowbrook Park </Name>
+   <Location> Richmond Ave. &amp; Eton Place </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 6 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> All Weather </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> R031 </Prop_ID>
+   <Name> Wolfes Pond Park </Name>
+   <Location> Cornelia Ave., off of Highland Blvd. </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> All Weather </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+  <facility>
+   <Prop_ID> M104 </Prop_ID>
+   <Name> Sportime at Randall's Island </Name>
+   <Location> Randall's Island Park </Location>
+   <Phone> (212) 427-6150 </Phone>
+   <Courts> 20 </Courts>
+   <Indoor_Outdoor> Indoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> 5 indoor hard courts, 5 indoor/outdoor hard courts, and 10 indoor/outdoor clay courts. 10 of the 20 courts are available to permit holders during the outdoor permit season (May through Columbus Day). Adult and junior instructional, competitive, and recreational tennis programs offered. For more information, visit the &lt;a href=&quot;http://www.sportimeny.com/randallsisland&quot;&gt;Sportime Randall's Island tennis page&lt;/a&gt;. </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q001A </Prop_ID>
+   <Name> Alley Pond Tennis Club </Name>
+   <Location> Queens Village 79-20 Winchester Boulevard </Location>
+   <Phone> (718) 264-2600 </Phone>
+   <Courts> 11 </Courts>
+   <Indoor_Outdoor> Indoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons offered. Courts will not be available for permit from October 15 through April 30. Please call for more information. </Info>
+  </facility>
+  <facility>
+   <Prop_ID> Q021 </Prop_ID>
+   <Name> Cunningham Tennis Center </Name>
+   <Location> Fresh Meadows 196-00 Union Turnpike </Location>
+   <Phone> (718) 740-6800 </Phone>
+   <Courts> 5 </Courts>
+   <Indoor_Outdoor> Indoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> N </Accessible>
+   <Info> Lessons offered. Courts will not be available during the summer. Please call for more information. </Info>
+  </facility>
+  <facility>
+   <Prop_ID> R129 </Prop_ID>
+   <Name> Greenbelt Recreation Center </Name>
+   <Location> 501 Brielle Avenue </Location>
+   <Phone> (718) 667-3545 </Phone>
+   <Courts> 2 </Courts>
+   <Indoor_Outdoor> Outdoor </Indoor_Outdoor>
+   <Tennis_Type> Hard </Tennis_Type>
+   <Accessible> Y </Accessible>
+   <Info />
+  </facility>
+ </facilities>
+
+</tennis>

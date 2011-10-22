@@ -1,0 +1,966 @@
+<?xml version="1.0"?>
+<recreationcenter xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_RecreationCenter_001.txt">
+ <facilities>
+  <facility>
+   <NAME> Alfred E. Smith Recreation Center </NAME>
+   <ADDRESS> 80 Catherine Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10038 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 285-0300 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 285-0302 </FAX>
+   <CENTER_MANAGER> Geoff Huston </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free> 0 </cost_free>
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Asser Levy Recreation Center </NAME>
+   <ADDRESS> 392 Asser Levy Place </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10010 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 447-2020 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 447-2028 </FAX>
+   <CENTER_MANAGER> Jason Fries </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Dawn Louallen &amp; Nathalia Peralta </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> St. Mary's Recreation Center </NAME>
+   <ADDRESS> 450 St. Ann's Avenue </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10455 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 402-5155 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 402-5158 </FAX>
+   <CENTER_MANAGER> Shawn James </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Angel Gerena </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Mullaly Community Center </NAME>
+   <ADDRESS> 40 East 164th Street </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10452 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 590-5743 </PHONE>
+   <PHONE_B> (718) 537-6782 </PHONE_B>
+   <FAX> (718) 590-5981 </FAX>
+   <CENTER_MANAGER> Terrance Williams </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> St. James Recreation Center </NAME>
+   <ADDRESS> 2530 Jerome Avenue </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10468 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 367-3657 </PHONE>
+   <PHONE_B> (718) 367-3658 </PHONE_B>
+   <FAX> (718) 295-8713 </FAX>
+   <CENTER_MANAGER> Patricia Kendly </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Kingsbridge Heights Community Center </NAME>
+   <ADDRESS> 3101 Kingsbridge Terrace </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10458 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 884-0700 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 884-0858 </FAX>
+   <CENTER_MANAGER> Charles Shayne </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Williamsbridge Oval Recreation Center </NAME>
+   <ADDRESS> 3225 Reservoir Oval East </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10467 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 654-1851 </PHONE>
+   <PHONE_B> (718) 994-6785 </PHONE_B>
+   <FAX> (718) 654-1851 </FAX>
+   <CENTER_MANAGER> Tuwanda Ruffin </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Sheroly Jones </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> West Bronx CBO </NAME>
+   <ADDRESS> 1527 Jessup Ave. </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 293-5934 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Crotona Park Community Center </NAME>
+   <ADDRESS> 1700 Fulton Avenue </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10457 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 822-4440 </PHONE>
+   <PHONE_B> (718) 716-1196 </PHONE_B>
+   <FAX> (718) 299-5079 </FAX>
+   <CENTER_MANAGER> Ken Mullin </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Kevin Copelin </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Hunts Point </NAME>
+   <ADDRESS> 765 Manida Street between </ADDRESS>
+   <CITY />
+   <STATE />
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 860-5544 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 860-5885 </FAX>
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Owen Dolen Recreation Center </NAME>
+   <ADDRESS> 1400 Westchester Square </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10461 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 829-0156 </PHONE>
+   <PHONE_B> (718) 822-4202 </PHONE_B>
+   <FAX> (718) 822-4201 </FAX>
+   <CENTER_MANAGER> Kathleen  Walker </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Ray Combest </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Haffen Park Field House </NAME>
+   <ADDRESS> Ely &amp; Hammersly avenues </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10469 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 379-8347 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Brownsville Recreation Center </NAME>
+   <ADDRESS> 1555 Linden Boulevard </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11212 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 485-4633 </PHONE>
+   <PHONE_B> (718) 345-2706 </PHONE_B>
+   <FAX />
+   <CENTER_MANAGER> Greg Jackson </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Donna Gray, Jerry Childs </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Herbert Von King Cultural Arts Center </NAME>
+   <ADDRESS> 670 Lafayette Avenue </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11216 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 622-2082 </PHONE>
+   <PHONE_B> (718) 965-6567 </PHONE_B>
+   <FAX> (718) 622-2598 </FAX>
+   <CENTER_MANAGER> Lemuel Mial </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Sharon Williams </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Red Hook Recreation Center </NAME>
+   <ADDRESS> 155 Bay Street </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11232 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 722-3211 </PHONE>
+   <PHONE_B> (718) 722-7105 </PHONE_B>
+   <FAX> (718) 722-7341 </FAX>
+   <CENTER_MANAGER> Lynn McEvoy </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Dawn Cook </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Metropolitan Recreation Center </NAME>
+   <ADDRESS> 261 Bedford Avenue </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11211 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 599-5707 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 599-5745 </FAX>
+   <CENTER_MANAGER> Vacant </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Steve Groce &amp; James Graham </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> St. John&#8217;s Recreation Center </NAME>
+   <ADDRESS> 1251 Prospect Place </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11213 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 771-2787 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 771-2693 </FAX>
+   <CENTER_MANAGER> Vernetta Diggs </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Lawrence James </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Betsy Head (Field House) </NAME>
+   <ADDRESS> Livonia Ave between Hopkinson &amp; Amboy streets </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11212 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 965-6588 </PHONE>
+   <PHONE_B> (718) 965-6581 </PHONE_B>
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Basil Behagen Field House </NAME>
+   <ADDRESS> East 166th Street </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 10452 </ZIP>
+   <BOROUGH />
+   <PHONE />
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free> 0 </cost_free>
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Sunset Park Recreation Center </NAME>
+   <ADDRESS> 7th Avenue at 43rd Street </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11232 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 965-6533 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 633-4053 </FAX>
+   <CENTER_MANAGER> Karen Gripper </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Donna Remmen </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Fort Hamilton Senior Recreation Center </NAME>
+   <ADDRESS> 9941 Fort Hamilton Parkway </ADDRESS>
+   <CITY> Brooklyn </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11209 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 439-4296 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 439-6737 </FAX>
+   <CENTER_MANAGER> Gene Fowler </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Peter Lovett </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Millennium Skate Park (Satellite) </NAME>
+   <ADDRESS> Owl's Head Park </ADDRESS>
+   <CITY />
+   <STATE />
+   <ZIP />
+   <BOROUGH />
+   <PHONE />
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Tony Dapolito Recreation Center </NAME>
+   <ADDRESS> 1 Clarkson Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10014 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 242-5228 </PHONE>
+   <PHONE_B> (212) 242-5418 </PHONE_B>
+   <FAX> (212) 242-5422 </FAX>
+   <CENTER_MANAGER> Valerie Edwards </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Alisa Brogdon </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Recreation Center 54 </NAME>
+   <ADDRESS> 348 East 54th Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10022 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 754-5411 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 754-0661 </FAX>
+   <CENTER_MANAGER> Karen I. Pedrosa </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Kristine Zagorski Kelly </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Hamilton Fish Recreation Center </NAME>
+   <ADDRESS> 128 Pitt Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10002 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 387-7687 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 387-7689 </FAX>
+   <CENTER_MANAGER> Ed Auguste </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Nicole Steeley </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Thomas Jefferson Recreation Center </NAME>
+   <ADDRESS> 2180 1st  Avenue </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10029 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 860-1383 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 860-1371 </FAX>
+   <CENTER_MANAGER> John Falzon </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Recreation Center 59 </NAME>
+   <ADDRESS> Closed for renovations. </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10019 </ZIP>
+   <BOROUGH />
+   <PHONE />
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> J. Hood Wright Recreation Center </NAME>
+   <ADDRESS> 351 Fort Washington Avenue </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10033 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 927-1514 </PHONE>
+   <PHONE_B> (212) 927-1563 </PHONE_B>
+   <FAX> (212) 927-1514 </FAX>
+   <CENTER_MANAGER> Steven John </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Stephanie Harris </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Highbridge Field House </NAME>
+   <ADDRESS> 2301 Amsterdam Avenue </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10033 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 927-2012 </PHONE>
+   <PHONE_B> (212) 927-2400 </PHONE_B>
+   <FAX> (212) 927-2063 </FAX>
+   <CENTER_MANAGER> Doris S. Smith </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Hansborough Recreation Center </NAME>
+   <ADDRESS> 35 West 134th Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10037 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 234-9603 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 234-9604 </FAX>
+   <CENTER_MANAGER> Ellis Mercer </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Carlin Dawson </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Jackie Robinson Recreation Center </NAME>
+   <ADDRESS> 85 Bradhurst  Avenue </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10030 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 234-9607 </PHONE>
+   <PHONE_B> (212) 234-9608 </PHONE_B>
+   <FAX> (212) 234-5683 </FAX>
+   <CENTER_MANAGER> Sherrie Plowden </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Farrell Coates </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> North Meadow Recreation Center </NAME>
+   <ADDRESS> Mid-park at 97th Street, Central Park </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10025 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 348-4867 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 348-4479 </FAX>
+   <CENTER_MANAGER> Jamaal King </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Morningside Park House </NAME>
+   <ADDRESS> 410 West 123rd Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10027 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 280-0209 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 280-0344 </FAX>
+   <CENTER_MANAGER> Sherrie Plowden </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Lost Battalion Hall Recreation Center </NAME>
+   <ADDRESS> 93-29 Queens Boulevard </ADDRESS>
+   <CITY> Rego Park </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11374 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 263-1163 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 520-5366 </FAX>
+   <CENTER_MANAGER> Andrea Keyes </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Juan Segura </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Roy Wilkins Recreation Center </NAME>
+   <ADDRESS> 177th Street &amp; Baisley Boulevard </ADDRESS>
+   <CITY> Jamaica </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11434 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 276-8686 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 276-8690 </FAX>
+   <CENTER_MANAGER> Lynn Delossantos </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Tammy Mitchell </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Sorrentino Recreation Center </NAME>
+   <ADDRESS> 18-48 Cornaga Avenue </ADDRESS>
+   <CITY> Far Rockaway </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11691 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 471-4818 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 471-1819 </FAX>
+   <CENTER_MANAGER> Bernard Robinson </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Chaleene Nash </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Louis Armstrong Community Center </NAME>
+   <ADDRESS> 33-16 108 St. </ADDRESS>
+   <CITY> Corona </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11368 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 651-0096 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 446-0156 </FAX>
+   <CENTER_MANAGER> Gina Lewis </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Passerelle Building </NAME>
+   <ADDRESS> Flushing Meadows Corona Park </ADDRESS>
+   <CITY> Queens </CITY>
+   <STATE> NY </STATE>
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 699-4236 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 699-4243 </FAX>
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> A.R.R.O.W. Field House </NAME>
+   <ADDRESS> 35-30 35th Street </ADDRESS>
+   <CITY> Astoria </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11106 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 349-0444 </PHONE>
+   <PHONE_B> (718) 349-3408 </PHONE_B>
+   <FAX> (718) 349-6015 </FAX>
+   <CENTER_MANAGER> Joan Herrera </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Det. Keith L. Williams </NAME>
+   <ADDRESS> 173rd Street between 106th and 107th Avenues </ADDRESS>
+   <CITY> Queens </CITY>
+   <STATE> NY </STATE>
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 523-6912 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 523-6912 </FAX>
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Playground For All Children </NAME>
+   <ADDRESS> 111-01 Corona Avenue </ADDRESS>
+   <CITY> Queens </CITY>
+   <STATE> NY </STATE>
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 699-8283 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 699-4201 </FAX>
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Bowne Park Field House </NAME>
+   <ADDRESS> 32nd Avenue &amp; 159th Street </ADDRESS>
+   <CITY> Flushing </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 11358 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 939-2428 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Vic Hanson (Satellite) </NAME>
+   <ADDRESS> 133rd St. &amp; Guy R. Brewer Boulevard </ADDRESS>
+   <CITY />
+   <STATE />
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 978-1536 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Newtown (Satellite) </NAME>
+   <ADDRESS> 92nd St. &amp; 56th Ave, Elmhurst </ADDRESS>
+   <CITY />
+   <STATE />
+   <ZIP />
+   <BOROUGH />
+   <PHONE> (718) 520-5318 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> George M. Cromwell Recreation Center </NAME>
+   <ADDRESS> Closed for renovations. </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10301 </ZIP>
+   <BOROUGH />
+   <PHONE />
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Faber Park Field House </NAME>
+   <ADDRESS> Faber Street &amp; Richmond Terrace </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10301 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 816-5558 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER> Lou Scara, Supervisor </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Graniteville Field House </NAME>
+   <ADDRESS> Jules &amp; Regis Drive </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10314 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 477-5471 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Chelsea Recreation Center </NAME>
+   <ADDRESS> 430 West 25th Street </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10001 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 255-3705 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 255-3706 </FAX>
+   <CENTER_MANAGER> Jamil Phillips </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Lisa Brooks </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Pelham Fritz Recreaton Center </NAME>
+   <ADDRESS> 18 Mount Morris Park West </ADDRESS>
+   <CITY> New York </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10027 </ZIP>
+   <BOROUGH />
+   <PHONE> (212) 860-1380 </PHONE>
+   <PHONE_B />
+   <FAX> (212) 860-1391 </FAX>
+   <CENTER_MANAGER> Hakeem Omolade </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Vilma Jimenez </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Greenbelt Recreation Center </NAME>
+   <ADDRESS> 501 Brielle Avenue (across from Sea View Hospital) </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 10314 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 667-3545 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 667-3544 </FAX>
+   <CENTER_MANAGER> Christopher Caropolo </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Divina McNatt </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> West Bronx CYO </NAME>
+   <ADDRESS> 1527 Jessup Avenue </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 10452 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 293-5934 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 293-5866 </FAX>
+   <CENTER_MANAGER> Jose Lopez </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Hunt's Point Recreation Center </NAME>
+   <ADDRESS> 765 Manida Street </ADDRESS>
+   <CITY> Bronx </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 10474 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 860-5544 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 860-5885 </FAX>
+   <CENTER_MANAGER> Fernando Rosa </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Detective Keith L. Williams Field House </NAME>
+   <ADDRESS> 106-16 173rd Street between 172 &amp; 173 Streets </ADDRESS>
+   <CITY> Jamaica </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 11433 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 523-6912 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 523-1617 </FAX>
+   <CENTER_MANAGER> Angela Elie </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Playground for All Children Field House </NAME>
+   <ADDRESS> 111-01 Corona Avenue </ADDRESS>
+   <CITY> Corona </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 11368 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 699-8350 </PHONE>
+   <PHONE_B> (718) 699-4201 </PHONE_B>
+   <FAX> (718) 699-8283 </FAX>
+   <CENTER_MANAGER> Jostin Rodriguez </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Vic Hanson Field House </NAME>
+   <ADDRESS> 133- 39 Guy R. Brewer Boulevard </ADDRESS>
+   <CITY> Jamaica </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 11434 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 978-1536 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER> Maxine Clark </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Silver Lake Field House </NAME>
+   <ADDRESS> 42 Revere Street/1 University Place </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 10301 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 816-9721 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Al Oerter Recreation Center </NAME>
+   <ADDRESS> 131-40 Fowler Avenue </ADDRESS>
+   <CITY> Flushing </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 11355 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 353-7853 </PHONE>
+   <PHONE_B />
+   <FAX> (718) 353-7687 </FAX>
+   <CENTER_MANAGER> Dannette Leininger </CENTER_MANAGER>
+   <DEPUTY_MANAGER> Nelson Fung &amp; Ken Conyers </DEPUTY_MANAGER>
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Flushing Meadows Corona Park Pool &amp; Rink </NAME>
+   <ADDRESS> 125-40 Roosevelt Ave </ADDRESS>
+   <CITY> Flushing </CITY>
+   <STATE> New York </STATE>
+   <ZIP> 11355 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 271-7572 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER />
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> Lyons Pool </NAME>
+   <ADDRESS> Murray Hulbert Avenue </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10301 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 816-6302 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER> Bill LaCurtis </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free> 0 </cost_free>
+   <cost_description />
+  </facility>
+  <facility>
+   <NAME> De Matti Playground </NAME>
+   <ADDRESS> Tompkins Avenue, Chestnut Street, &amp; Shaughnessy Lane </ADDRESS>
+   <CITY> Staten Island </CITY>
+   <STATE> NY </STATE>
+   <ZIP> 10305 </ZIP>
+   <BOROUGH />
+   <PHONE> (718) 816-5256 </PHONE>
+   <PHONE_B />
+   <FAX />
+   <CENTER_MANAGER> Bill LaCurtis </CENTER_MANAGER>
+   <DEPUTY_MANAGER />
+   <message />
+   <cost_free />
+   <cost_description />
+  </facility>
+ </facilities>
+
+</recreationcenter>

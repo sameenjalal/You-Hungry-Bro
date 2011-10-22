@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<horseback xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Horseback_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X039 </Prop_ID>
+   <Name> Pelham Bay Park </Name>
+   <Description> The bridle path in Pelham Bay Park provides beautiful vistas of marshland and woods. </Description>
+   <Stable_Name> &lt;a href=&quot;http://www.bronxequestriancenter.com/&quot;&gt;Bronx Equestrian Center&lt;/a&gt; </Stable_Name>
+   <Stable_Phone> (718) 885-0551 </Stable_Phone>
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt Park </Name>
+   <Description> Situated on 21 acres, the Riverdale Equestrian Centre has four outdoor riding rings, an Olympic-sized indoor arena, and easy access to the miles of trails in Van Cortlandt Park. </Description>
+   <Stable_Name> &lt;a href=&quot;http://www.riverdaleriding.com/&quot;&gt;Riverdale Equestrian Centre&lt;/a&gt; </Stable_Name>
+   <Stable_Phone> (718) 548-4848 </Stable_Phone>
+  </facility>
+  <facility>
+   <Prop_ID> B073 </Prop_ID>
+   <Name> Prospect Park </Name>
+   <Description> This 3.5 mile-long bridle path winds through scenic woodlands, meadows, and a ravine. It begins at the Park Circle entrance (the intersection of Coney Island Avenue, Parkside Avenue, and Prospect Park Southwest) and continues along the Lake to the Long Meadow and the Midwood. </Description>
+   <Stable_Name> &lt;a href=&quot;http://www.kensingtonstables.com/&quot;&gt;Kensington Stables&lt;/a&gt;; &lt;a href=&quot;http://gallopnyc.org&quot;&gt;GALLOP NYC&lt;/a&gt; </Stable_Name>
+   <Stable_Phone> (718) 972-4588 </Stable_Phone>
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Central Park </Name>
+   <Description> Horseback riding services are not available in Central Park at this time. Thank you for your interest. </Description>
+   <Stable_Name />
+   <Stable_Phone />
+  </facility>
+  <facility>
+   <Prop_ID> Q015 </Prop_ID>
+   <Name> Forest Park </Name>
+   <Description> The four-mile equestrian path meanders through 165 acres of oak forest. </Description>
+   <Stable_Name> Lynn's Riding School </Stable_Name>
+   <Stable_Phone> (718) 261-7679 </Stable_Phone>
+  </facility>
+  <facility>
+   <Prop_ID> Q015 </Prop_ID>
+   <Name> Forest Park </Name>
+   <Description> The four-mile equestrian path meanders through 165 acres of oak forest. </Description>
+   <Stable_Name> Dixie Dew </Stable_Name>
+   <Stable_Phone> (718) 263-3500 </Stable_Phone>
+  </facility>
+  <facility>
+   <Prop_ID> R </Prop_ID>
+   <Name> Throughout Staten Island </Name>
+   <Description> The borough offers a wide variety of riding terrain, from beaches to parks and city streets to wooded trails. </Description>
+   <Stable_Name> &lt;a href=&quot;http://www.seguineequestriancenter.com/index.html&quot;&gt;Seguine Equestrian Center&lt;/a&gt; </Stable_Name>
+   <Stable_Phone> (718) 317-1121 </Stable_Phone>
+  </facility>
+ </facilities>
+
+</horseback>

@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<publiccomputerresourcecenter xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_PublicComputerResourceCenter_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> M194 </Prop_ID>
+   <name> Alfred E. Smith Recreation Center </name>
+   <address> 80 Catherine Street </address>
+   <cross_streets> at Cherry Street </cross_streets>
+   <description> Named for the first Irish Catholic to be nominated for President, the Alfred E. Smith Recreation Center was built in the 1950s to provide the overpopulated Lower East Side with access to open spaces and athletic facilities. The Center houses many athletic and educational programs for children and adults throughout the day. Its large gymnasium hosts many community events. </description>
+   <by_car />
+   <by_subway> From the 4, 5, 6, J, M, Z: Go to the Brooklyn Bridge/City Hall stop. Exit the station at the Municipal Building. Walk North on Centre Street. Right on Worth Street. Walk East on Worth to the Bowery. At this intersection go straight, to Oliver Street. Walk down Oliver Street and take a Left on Madison Street. Walk to the next corner. Turn right on Catherine Street. The address of the center is 80 Catherine Street. It's located behind the public school.
+&lt;br/&gt;
+From the A, C, E, N and R: Go to the City Hall or Chambers Street station. Cross City Hall Park and go to the Municipal Building on Centre and Chambers Street. Follow the directions above.
+&lt;br/&gt;
+From the F: Go to the East Broadway stop. Exit at Madison Street (the downtown side of the station.) Follow Madison Street south, towards the Manhattan Bridge overpass. A few blocks after passing underneath the bridge, you will reach Catherine Street. Turn left. The center is at the end of the block behind the public school (the center is in the middle of the block-it does not actually face the street). </by_subway>
+   <by_bus />
+   <phone> (212) 285-0300 </phone>
+   <fax> (212) 285-0302 </fax>
+   <manager> Geoff Huston </manager>
+   <deputy_manager />
+   <coordinator> Preston Coston </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> Q470 </Prop_ID>
+   <name> ARROW Recreation Center </name>
+   <address> 35-30 35th Street </address>
+   <cross_streets> at 36th Avenue </cross_streets>
+   <description> This center is named after the neighborhood volunteer group responsible for its conception and final construction in June 2000: Astoria Residents Reclaiming Our World (A.R.R.O.W.). The construction created a beautiful center next to a flourishing community garden. A.R.R.O.W. houses innovative cultural and educational programs for children of all ages. </description>
+   <by_car />
+   <by_subway> take the N or W train to 36th Avenue, walk up 36th Ave. to 35th St., take a left on 35th St. and the center will be on your left mid-block. </by_subway>
+   <by_bus />
+   <phone> (718) 349-0444 </phone>
+   <fax> (718) 349-3408 </fax>
+   <manager> Joan Herrera </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> B270 </Prop_ID>
+   <name> Brownsville Recreation Center </name>
+   <address> 1555 Linden Blvd </address>
+   <cross_streets> at Christopher Street </cross_streets>
+   <description> This recreation center, known initially as the Brownsville Boys&#8217; Club, first opened in 1953, as a one-room clubhouse. Through vigorous leadership, unceasing effort, and the public-spirited generosity of many sponsors, the Center went through major expansion and became a Parks Department Facility in 1955, with a multitude of diverse facilities, including a stage, indoor pool, and industrial kitchen. Hundreds of youth and adults flock to Brownsville Recreation Center each day. </description>
+   <by_car> From Queens: Take the Belt Parkway west, exit at North Conduit. Stay in left lane and bear left for Linden Boulevard after about 1/4 mile. Proceed on Linden Blvd. for appx. 2 miles. After Pennsylvania Avenue, get to the service lane all the way right. Go to &#8220;The rest of the way...&#8221; below.&lt;br/&gt;
+From the Triboro Bridge: Take the Grand Central Parkway East to the Jackie Robinson Parkway. Continue to end of Parkway, turn left onto Pennsylvania Avenue. Proceed on Pennsylvania to Linden Boulevard (look for the Exxon and Mobile Stations on either corner. Turn right into service lane on Linden Blvd. Proceed one mile on Linden Blvd. Go to &#8220;The rest of the way...&#8221; below.&lt;br/&gt;
+The Rest of the Way: You will go under 2 trestles overhead and then you will see the BRC on the right. It is a brown brick building with a small parking area on Linden Blvd. You will also notice ball fields on Linden Blvd.&lt;br/&gt;
+From Eastern Parkway: Take Eastern Parkway to Buffalo Avenue. Turn Right onto Buffalo&amp;mdash;Its name will change to Rockaway Parkway after appx/ 3 blocks. Stay on Rockaway and proceed to Linden Boulevard (this is a big intersection with Brookdale Memorial Hospital on the left). Turn left onto Linden. On Linden Boulevard the BRC will be on your left after the 2nd traffic light. You will notice a Green parks flag and a small sign. The best approach is to pass the center, make your first available U-turn and proceed in the service lane to park. </by_car>
+   <by_subway> Take the L train to New Lots Avenue. Walk 3 blocks to the left on New Lots Avenue, then turn left and proceed 3 blocks on Christopher St. </by_subway>
+   <by_bus />
+   <phone> (718) 345-2706 </phone>
+   <fax />
+   <manager> Gregg Jackson </manager>
+   <deputy_manager> Donna Gray </deputy_manager>
+   <coordinator> Michael Straker </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M260 </Prop_ID>
+   <name> Chelsea Recreation Center </name>
+   <address> 430 West 25th Street </address>
+   <cross_streets> between 9th &amp; 10th Avenues </cross_streets>
+   <description> Chelsea Recreation Center was opened in the summer of 2004 to provide affordable recreation and programming opportunities from the members of the Chelsea community. One of the newest centers, Chelsea offers Parks&#8217; most cutting edge facilities. Since its grand opening, Chelsea Recreation Center has become a hub of activity for children and adults. </description>
+   <by_car> Parking around the center is extremely scarce so the best way to get to the center is by public transportation. </by_car>
+   <by_subway> Take the C or E train and get off at 23rd Street and 8th Avenue. Walk two blocks north to 25th Street and then head west towards 9th Avenue. The center is on the south side of the block between 9th and 10th Avenues. </by_subway>
+   <by_bus />
+   <phone> (212) 255-3705 </phone>
+   <fax> (212) 255-3706 </fax>
+   <manager> Jamil Phillips </manager>
+   <deputy_manager />
+   <coordinator> &lt;a href=&quot;mailto:Cynthia.Bassknight@parks.nyc.gov&quot;&gt;Cynthia Bassknight&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID />
+   <name> Cromwell Recreation Center </name>
+   <address> Pier 6 </address>
+   <cross_streets> at Bay &amp; Hannah Streets </cross_streets>
+   <description> &lt;p class=&quot;errors&quot;&gt;Cromwell Recreation Center is currently under construction and is closed until further notice.&lt;/p&gt;
+This recreation center honors Staten Island's first Borough President, George C. Cromwell (1860-1934). Educated at Brooklyn Polytechnic College, Yale University, and Columbia Law School, Cromwell settled in Staten Island in the 1880s. </description>
+   <by_car> From Staten Island: Take Victory Blvd to Bay Street and take right, go two lights and take a left on Hannah Street, you will be heading towards the water. Bare right and the center will be on your left, parking lot will be on your right. From outside Staten Island: Take the Verrazono-Narrows Bridge (I-278W) lower level. Exit on Bay Street, the first exit after the toll plaza. Turn left onto Bay Street, follow the directions above. </by_car>
+   <by_subway> Take the train to the Tompkinsville stop. Walk toward the water and the center will be on your right side. </by_subway>
+   <by_bus> Any bus that goes to the ferry will stop near the center. Get off at Bay and Hannah. </by_bus>
+   <phone> (718) 816-6172 </phone>
+   <fax />
+   <manager />
+   <deputy_manager> Bill La Curtis </deputy_manager>
+   <coordinator> &lt;a href=&quot;mailto:Tesa.Tarnofsky@parks.nyc.gov&quot;&gt;Tesa Tarnofsky&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M130 </Prop_ID>
+   <name> East 54th Street Recreation Center </name>
+   <address> 348 East 54th Street </address>
+   <cross_streets> bet. 1st &amp; 2nd Avenues </cross_streets>
+   <description> Recreation Center 54 opened on Feb. 17, 1911, with 79 showers for men and 59 for women. Built during an era of socially progressive initiatives, the center&#8217;s original purpose was to provide sanitary facilities for the city&#8217;s working classes. Although the four-story, neo-classical building is not a designated landmark, much of its original character and history remains. Recent additions of a ramp and elevator have made the building accessible for all users. Recreation Center 54 provides a wide variety of programming for all ages, including dance, swimming, computer classes, and aerobics. </description>
+   <by_car />
+   <by_subway> take the E, V, or 6 trains to Lexington Ave. &amp; 53rd Street. Walk north one block and east two avenues. </by_subway>
+   <by_bus />
+   <phone> (212) 754-5411 (212) 754-0293 </phone>
+   <fax> (212) 754-0661 </fax>
+   <manager> Karen Pedrosa </manager>
+   <deputy_manager> Andrea Rivette </deputy_manager>
+   <coordinator> Diana Baker </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> B210W-03 </Prop_ID>
+   <name> Fort Hamilton Recreation Center </name>
+   <address> 9941 Ft. Hamilton Parkway </address>
+   <cross_streets> at 99th Street </cross_streets>
+   <description> With over 1000 members, Fort Hamilton Senior Center serves as a lively gathering place for senior citizens throughout Brooklyn. The Center publishes its own newsletter detailing monthly events and uses the dance room to hold lectures and discussion groups. The Fort Hamilton Senior Center is an excellent place for Brooklyn&#8217;s seniors to socialize and demonstrate their creative talents. </description>
+   <by_car> From Manhattan: Take the Brooklyn Bridge to the BQE West. Take the 92nd Street exit (# 17). Turn right on 92nd street, then left on Fort Hamilton Pkwy. The center will be on your left under an overpass. There is a parking lot right next door.&lt;br/&gt;
+From Staten Island: Belt Pkwy West, Exit 2. 4th Ave. &amp;ndash; 100th St. Make a right 1 block. Ft. Ham Pkwy, make right, parking lot is on your left. </by_car>
+   <by_subway> To get to the center by train, take the R train to the last stop at 95th St. and 4th Ave. Walk one block down to Ft. Hamilton Parkway until you reach 100th St. </by_subway>
+   <by_bus> The B8 Bus (18th Ave) stops in front of the center at 100th Street. The B63 Bus (5th Ave) makes its last stop to 97th St. and 4th Ave. From there, walk one block down to Ft. Hamilton Parkway, then 3 blocks to 100th St. The B37 Bus makes its last at 100th St. and 3rd Ave. From there, walk 2 blocks down to Ft. Hamilton Parkway. </by_bus>
+   <phone> (718) 439-4296 </phone>
+   <fax> (718) 439-4296 </fax>
+   <manager> Gene Fowler </manager>
+   <deputy_manager> Peter Lovett </deputy_manager>
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> R129 </Prop_ID>
+   <name> Greenbelt Recreation Center </name>
+   <address> Brielle Avenue </address>
+   <cross_streets> between Walcott and Rockland avenues, across from Sea View Hospital </cross_streets>
+   <description> The $9 million, 18,000 square-foot facility is the first public recreation center built in Staten Island since the Cromwell Center in Tompkinsville opened in the 1930s. The new layout preserves historic features from the building&#8217;s previous incarnation. Its centerpiece is the former Dutch Colonial morgue, which has been reconfigured to serve as recreation, educational, and office space. </description>
+   <by_car> From the Verazzano Narrows Bridge: Take Rte. 278 West to Bradley Avenue exit. From service road, turn left on Bradley Avenue and continue to the intersection of Bradley and Brielle avenues. Turn right on to Brielle Avenue and go 1/2 mile and turn right after baseball fields.&lt;br/&gt;
+From the Outerbridge Crossing: Take the Korean War Veterans Parkway to Richmond Avenue North exit. Turn left on to Richmond Avenue and pass the Staten Island Mall. Turn right on to Rockland Avenue and proceed approximately 1.3 miles to Brielle Avenue. Go approximately 50 yards and turn left into the Greenbelt Recreation Center driveway. </by_car>
+   <by_subway />
+   <by_bus> S 54 and S 57 to Brielle Avenue between Walcott and Rockland avenues, across from Sea View Hospital. </by_bus>
+   <phone> (718) 667-3545 </phone>
+   <fax />
+   <manager />
+   <deputy_manager> Christopher Caropolo </deputy_manager>
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> M033 </Prop_ID>
+   <name> Hamilton Fish Recreation Center </name>
+   <address> 128 Pitt Street </address>
+   <cross_streets> Avenue C &amp; Houston Street </cross_streets>
+   <description> Originally opened in 1900, Hamilton Fish Park and Recreation Center underwent construction in 1936 to accommodate the large pool that has become an important part of the Lower East Side community, particularly for children and athletes. Hamilton Fish Pool was so highly regarded that the U.S. Olympic Team used it for practice sessions on their way to the 1952 Helsinki Games. Today, the Center hosts a thriving afterschool program and many different fitness classes for adults. </description>
+   <by_car> Take FDR drive to East Houston St. Exit go west on E-Houston to Ridge make a left, make left on Stanton, make left on Pitt. </by_car>
+   <by_subway> F-train to Second Ave., walk 9 block to east to Pitt Street. J, M, or Z to Delancey-Essex, walk 6 blocks east to Pitt Street, make a left on Pitt and walk 4 blocks. </by_subway>
+   <by_bus />
+   <phone> (212) 387-7687 </phone>
+   <fax> (212) 387-7689 </fax>
+   <manager> TBD </manager>
+   <deputy_manager> Sherrie Plowden </deputy_manager>
+   <coordinator> &lt;a href=&quot;mailto:Nicole.Jaquis@parks.nyc.gov&quot;&gt;Nicole Jaquis&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M131 </Prop_ID>
+   <name> Hansborough Recreation Center </name>
+   <address> 35 West 134th Street </address>
+   <cross_streets> at Lenox Avenue </cross_streets>
+   <description> Hansborough Recreation Center sits in the hub of the Central Harlem community and is the only facility with an indoor track in the area. The Center also has an outdoor Rooftop Sun Deck for special events. Hansorough holds many different activities for children, adults, teens, and seniors throughout the day. </description>
+   <by_car />
+   <by_subway> Take the 2 or 5 trains to 135th Street. Walk east one block and south one block. The center will be on your left. </by_subway>
+   <by_bus />
+   <phone> (212) 234-9603 </phone>
+   <fax />
+   <manager> Orlando Sanders </manager>
+   <deputy_manager />
+   <coordinator> Charlene Edwards </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> B088 </Prop_ID>
+   <name> Herbert Von King Recreation Center </name>
+   <address> 670 Lafayette </address>
+   <cross_streets> bet.Tomkpins &amp; Marcy Avenues </cross_streets>
+   <description> Herbert Von King was called the &quot;Mayor of Bedford-Stuyvesant,&quot; and was an active community leader for over 50 years. Von King served as a member of the local school board, Police Civilian Committee, and Magnolia Earth Tree Center. In 1983 he received awards from the State Senate, City Council, and 81st police precinct in recognition of his community service. Herbert Von King Cultural Arts Center commemorates this community hero by creating many educational and arts programs for the people of Bedford-Stuyvesant. With a lovely indoor theater, Von King is utilized for many cultural events. </description>
+   <by_car />
+   <by_subway> G to Bedford/Nostrand Aves. Follow exits signs to SE corner. Walk one block East on Lafayette Ave, passing Salvation Army and church on the left until you reach Tompkins Park. Von King is in the park located on the SE corner of Marcy and Lafayette Aves. </by_subway>
+   <by_bus> #38 bus to Marcy and Lafayette Aves. Bus Stop in the same block as park. </by_bus>
+   <phone> (718) 622-2082 </phone>
+   <fax />
+   <manager> Lemuel Mial </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> M037 </Prop_ID>
+   <name> Highbridge Recreation Center </name>
+   <address> 2301 Amsterdam Avenue </address>
+   <cross_streets> at 173rd Street </cross_streets>
+   <description> Located in Washington Heights, Highbridge is committed to providing a variety of innovative and quality community-based programs and events. Programs include art, dance, education and sports programs for children and teens, computer programs for all ages, ESL and Continuing Education programs for adults. </description>
+   <by_car />
+   <by_subway> take the A, B, 1 or 9 to 168th Street. Exit on Amsterdam and walk north 5 blocks to the center. </by_subway>
+   <by_bus />
+   <phone> (212) 927-2012 </phone>
+   <fax />
+   <manager> Aristides Maldonado </manager>
+   <deputy_manager />
+   <coordinator> TBD </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> X998 </Prop_ID>
+   <name> Hunts Point Recreation Center </name>
+   <address> 765 Manida Street </address>
+   <cross_streets> bet. Lafayette &amp; Spofford Avenues </cross_streets>
+   <description> The Hunts Point Recreation Center is unique in many ways, from its exterior design, which looks like an airport to its volleyball court and indoor running track. Hunts Point was the first Parks Recreation Center opened this millennium. Hunt&#8217;s Point provides arts, educational, and athletic programming for all ages, and holds special events for families in the community. </description>
+   <by_car />
+   <by_subway> Take the 6 train to Hunts Point Ave. Exit on Hunts Point Ave. and cross Bruckner Blvd. (under the Bruckner Expressway) continue to walk along Hunts Pt. Ave for 4 blocks and make a right on Lafayette Ave. Walk one block and make a left on Manida Ave. </by_subway>
+   <by_bus />
+   <phone> (718) 860-5544 </phone>
+   <fax />
+   <manager> Fernando Rosa </manager>
+   <deputy_manager />
+   <coordinator> Albert Davis </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M099 </Prop_ID>
+   <name> J. Hood Wright Recreation Center </name>
+   <address> 351 Fort Washington Avenue </address>
+   <cross_streets> at 174th Street </cross_streets>
+   <description> J. Hood Wright Park was acquired by condemnation on October 26, 1925 by the City of New York for the specific purpose of creating a much-needed park and playground, since the nearest playground was over a mile away. The original deed included a clause that required part of the park to be used as a facility for the recreation of senior citizens. Today the small Recreation Center houses thriving programs for children, teenagers, adults, and senior citizens. </description>
+   <by_car> Take the FDR drive to 178th Street exit make a left on Amsterdam Avenue go down to 173rd Street make a right proceed down to Ft. Washington Avenue &amp;ndash; parking is scarce. </by_car>
+   <by_subway> Take the A train to 175th &amp; G.W. Bridge / Exit toward the back of the station. </by_subway>
+   <by_bus />
+   <phone> (212) 927-1514 </phone>
+   <fax />
+   <manager> Steven John </manager>
+   <deputy_manager />
+   <coordinator> TBD </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M014 </Prop_ID>
+   <name> Jackie Robinson Recreation Center </name>
+   <address> 89 Bradhurst Avenue </address>
+   <cross_streets> at 146th Street </cross_streets>
+   <description> This park was acquired by the City of New York between 1894-99 and opened as a playground in 1911. Originally called Colonial Park, its construction was part of a nation-wide reform effort to provide organized play to children in inner cities. The Park and Recreation Center were re-named for Jackie Robinson, the first African-American to play in a major league baseball game, in 1978. Jackie Robinson has provided the &#8220;Sugar Hill&#8221; community with access to innovative educational, arts, and athletic programming for almost 100 years. </description>
+   <by_car />
+   <by_subway> Take the A/C, B/D lines to 145th St. Take the rear of the train and exit at the north east stairwell, walk down the hill to Bradhurst Ave. Make a left onto Bradhurst and walk up to 146th St. </by_subway>
+   <by_bus />
+   <phone> (212) 234-9607 </phone>
+   <fax />
+   <manager> Jackie Rowe Adams </manager>
+   <deputy_manager />
+   <coordinator> Adrienne Toney </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> Q401 </Prop_ID>
+   <name> Lost Battalion Hall Recreation Center </name>
+   <address> 93-29 Queens Boulevard </address>
+   <cross_streets> at 62nd Avenue </cross_streets>
+   <description> While attempting to overtake German-held land near Charlevaux, France during World War I, 301 men became isolated from the remainder of the division. For five days, between October 3, 1918, and October 7, 1918, the American soldiers, down to one day&#8217;s ration per man, managed to successfully repel the opposing German forces. Given the number of casualties lost during the battle, the soldiers are remembered as members of &#8220;The Lost Battalion.&#8221; The Center commemorates these brave men. Lost Battalion Hall, located in the multicultural area of Rego Park in Queens, is bustling with people at all hours and offers a variety of innovative programming for people of all ages. </description>
+   <by_car> From Manhattan: Take the 59th Street Bridge to Queens Blvd. Go straight on Queens Blvd. East. The center is on your left-hand side.&lt;br/&gt;
+From Brooklyn: Take the Jackie Robinson to Metropolitan Avenue West. Take Metropolitan to Woodhaven Blvd and make a right to Queens Blvd. East. Center is on your left-hand side.&lt;br/&gt;
+From Long Island: Take the LIE to Queens Blvd East. Or take Grand Central Pkwy. To Queens Blvd. Go west on Queens Blvd and the center is on your right hand side. </by_car>
+   <by_subway> Take the G or R to 63rd Drive. </by_subway>
+   <by_bus />
+   <phone> (718) 263-1163 </phone>
+   <fax />
+   <manager> Lynn Delossantos </manager>
+   <deputy_manager />
+   <coordinator> Nikki Davis </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> B085 </Prop_ID>
+   <name> Metropolitan Pool and Fitness Center </name>
+   <address> 261Bedford Avenue </address>
+   <cross_streets> at Metropolitan Avenue </cross_streets>
+   <description> Originally opened in 1935, Metropolitan Pool recently underwent a $4.88 million capital restoration to accommodate community space and a fitness room. Today, Metropolitan Pool hosts swimming and fitness courses for adults and seniors throughout the day and afterschool and teen programming for children starting at 3pm. </description>
+   <by_car />
+   <by_subway> Take the L train to the Bedford Avenue station (Bedford Avenue and North 7th St.). From there, you can walk south to the center. The G train stops on Metropolitan Avenue at Union St. The center is about 7 blocks west of the G line. </by_subway>
+   <by_bus> The center is easily accessible by the 61 Bus, which stops one block before and one block after the center on Bedford Avenue. </by_bus>
+   <phone> (718) 599-5707 </phone>
+   <fax />
+   <manager> Eva Johnson </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> X016 </Prop_ID>
+   <name> Owen Dolen Recreation Center </name>
+   <address> 1400 East Tremont </address>
+   <cross_streets> at Westchester Square </cross_streets>
+   <description> Named after a community activist from in the 1920s, Owen Dolen Recreation Center serves as a social center for the Parkchester neighborhood in the Bronx. The center attracts local residents of all ages participating in activities ranging from aerobics classes to local organizational meetings. </description>
+   <by_car />
+   <by_subway> Take the 2 or 5 to E Tremont Ave/Westfarm Sq. Walk 3 blocks west on E. Tremont Ave (not East on Westfarm Sq.) </by_subway>
+   <by_bus />
+   <phone> (718) 822-4202 </phone>
+   <fax />
+   <manager> Kathy Walker </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> M058 </Prop_ID>
+   <name> Pelham Fritz Recreation Center </name>
+   <address> 18 Mount Morris Park </address>
+   <cross_streets> at 122nd Street </cross_streets>
+   <description> This center honors Pelham Fritz (1920&amp;ndash;1988), popular Parks official, former basketball player and coach, and a nearly life-long Harlem resident. Opened in 1969, and surrounded by the lush Marcus Garvey Park, Pelham Fritz hosts a range of arts, athletic, and educational programming for children, adults, and seniors. </description>
+   <by_car> Take the FDR to 125th street, proceed straight ahead about six blocks to Lenox Avenue, make a left turn, proceed ahead to 122nd street, make a left turn, and our center is one block down. </by_car>
+   <by_subway> Take the #2 or #3 trains to 125th Street and Lenox Avenue. Walk south to 122nd Street. Make a left turn and walk down one block. </by_subway>
+   <by_bus />
+   <phone> (212) 860-1380 </phone>
+   <fax />
+   <manager> Hakeem Omalade </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> B126 </Prop_ID>
+   <name> Red Hook Recreation Center </name>
+   <address> 155 Bay Street </address>
+   <cross_streets> at Henry Street </cross_streets>
+   <description> Red Hook Park and Recreation Center opened to support Red Hook Houses, the first high-rise public housing in New York City. When the Recreation Center officially opened on August 12, 1936, The New York Times reported that Mayor Fiorello H. LaGuardia was greeted by the thunderous cheers of more than 40,000 area residents, many of them children. With its diverse facilities, Red Hook Recreation Center has remained an important part of the Red Hook community in Brooklyn for almost 70 years. </description>
+   <by_car> Take the Brooklyn Bridge to the BQE WEST to the Hamilton Ave. exit towards Battery Tunnel/Manhattan (exit #26) Bear Left on Hamilton Ave. Bear Right on Clinton St. Take a Left on Bay Street and arrive at the Recreation Center. </by_car>
+   <by_subway> Take either the F or G trains to Smith/9th Street. When you leave the station, you will be on 9th Street. Walk to your right to Smith. Cross Smith, and walk one block to Court Street. Make a left on Court, and proceed until you reach Bay Street. Make a right on Bay until you reach the center. </by_subway>
+   <by_bus> Take the B77 bus to Lorraine and Clinton. From there, walk down Clinton to Bay Street, and make a right. </by_bus>
+   <phone> (718) 722-3211 </phone>
+   <fax />
+   <manager> Jackie Spann </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> Q446 </Prop_ID>
+   <name> Sorrentino Recreation Center </name>
+   <address> 18-48 Cornaga Avenue </address>
+   <cross_streets> at Beach 19th Street </cross_streets>
+   <description> This Recreation Center is dedicated to the memory of Robert Sorrentino, a police officer who was killed in the line of duty on April 24, 1980. Officer Sorrentino was a seven-year veteran of the force, having served most of his career in this Rockaway community. Sorrentino Recreation Center provides a clean and safe environment for people of all ages, offering programs designed to emphasize fitness, health, education, sports, and recreation. </description>
+   <by_car> Take the Van Wyck Exp. to Nassau Exp. to Rockaway Blvd. Take Rockaway Blvd. Back to Nassau Exp. Go to Central Avenue and make a right. Take Central to Cornaga Ave. and make a left. Take to Beach 19th Street. The Center is on your left-hand side. </by_car>
+   <by_subway> Take the A train to Mott Avenue. Walk 3 blocks to Beach 19th Street &amp; make a right onto Beach 19th St. Walk one block to Cornaga Ave. &amp; make a left onto Cornaga. The center will be on your left. </by_subway>
+   <by_bus />
+   <phone> (718) 471-4818 </phone>
+   <fax> (718) 471-1819 </fax>
+   <manager> Bernard Robinson </manager>
+   <deputy_manager />
+   <coordinator> &lt;a href=&quot;mailto:Danielle.Goldfarb@parks.nyc.gov&quot;&gt;Danielle Goldfarb&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> X044 </Prop_ID>
+   <name> St. James Recreation Center </name>
+   <address> 2530 Jerome Avenue </address>
+   <cross_streets> at 192nd Street </cross_streets>
+   <description> Over the course of the last century, St. James Park has expanded its facilities to meet the growing needs of the community. A series of music concerts held in 1903 proved so popular that a music pavilion was erected in the park. One year later, parks officials responded to the demands of tennis players by installing tennis courts at the site. In 1935, the Recreation Center was constructed and underwent major renovations in 1999. St. James Recreation Center is bustling at all hours of the day with a thriving senior program, after-school program, and teen program. Many community events are also held at the Center. </description>
+   <by_car />
+   <by_subway> Take the 4 train to Fordham Rd. and walk north along Jerome Ave for 2 blocks. The park and recreation center will be on your right. OR, Take the D or C Train to Fordham Rd. Walk 1 block West on Fordham Rd. to Creston Ave. Make a Right and walk 2 blocks north. The park and Recreation Center will be on your left. </by_subway>
+   <by_bus />
+   <phone> (718) 367-3659 </phone>
+   <fax />
+   <manager> &lt;a href=&quot;mailto:Shirley.Echevarria@parks.nyc.gov&quot;&gt;Shirley Echevarria&lt;/a&gt; </manager>
+   <deputy_manager />
+   <coordinator> &lt;a href=&quot;mailto:Justin.Young@parks.nyc.gov&quot;&gt;Justin Young&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> B245 </Prop_ID>
+   <name> St. John's Recreation Center </name>
+   <address> 1251 Prospect Place </address>
+   <cross_streets> bet. Troy &amp; Schenectady </cross_streets>
+   <description> Located in a designated Community Development zone, St. John&#8217;s serves the needs of the Crown Heights section of Brooklyn by providing free membership to all community residents. The Center hosts many different classes, including homework instruction, athletic clinics, aerobics, dance, and swimming each day. </description>
+   <by_car> Take FDR Drive South to the Brooklyn Bridge. After crossing bridge, stay straight until Atlantic Avenue. Turn left on Atlantic, turn right on Schenectady, turn right on Prospect Place, the center will be on your right. </by_car>
+   <by_subway> Take the A train to Utica Ave and walk 6 blocks South to Prospect Place. Turn right and walk 1 &#189; blocks to the center. Or take the 3 or 4 to Utica Ave. Walk six blocks North, turn left to Prospect Place and walk 1&#189; blocks to the center. </by_subway>
+   <by_bus> Take the 65 or 15 to Schenectady Ave and walk two blocks South. Or take the 45 to Schenectady Ave and walk three blocks North. </by_bus>
+   <phone> (718) 771-2787 </phone>
+   <fax />
+   <manager> Vernetta Diggs </manager>
+   <deputy_manager />
+   <coordinator />
+  </facility>
+  <facility>
+   <Prop_ID> X045 </Prop_ID>
+   <name> St. Mary's Recreation Center </name>
+   <address> 450 East 145th Street </address>
+   <cross_streets> at St. Ann's Avenue </cross_streets>
+   <description> St. Mary&#8217;s Park led the way in the development of recreation programs in the Bronx. The borough&#8217;s first playground opened in St. Mary&#8217;s Park in 1914. St. Mary&#8217;s Recreation Center, completed in 1951, is one of the largest in New York City. Because of its extensive facilities including, a boxing room and an indoor pool, St. Mary&#8217;s offers a wide variety of inventive programming for the community. From athletics and fitness, to art and technology, the programs at St. Mary&#8217;s cover a full range of activities for adults and children. </description>
+   <by_car> From North - South Bound Bruckner to 138th St. Make a right to St. Ann&#8217;s (approximately 4 blocks) make right to 145th and SMR. &lt;br/&gt;
+From South - FDR to Willis Avenue Bridge. Take Willis Avenue to 144th make a right 3 blocks to St. Ann&#8217;s, then make left at 145th to SMR.&lt;br/&gt;
+From West - Take 149th St. East to St. Ann&#8217;s make right to SMR. From East - Take 149th St. West bound to St. Ann&#8217;s Ave. make left to 145th and SMR. </by_car>
+   <by_subway> Take the 2 or 5 train to 149th and Third Ave. Proceed East to 149th and St. Ann&#8217;s Ave. make a right to 145th and SMR. </by_subway>
+   <by_bus />
+   <phone> (718) 402-5155 </phone>
+   <fax />
+   <manager> Shawn James </manager>
+   <deputy_manager />
+   <coordinator> &lt;a href=&quot;mailto:Anthony.Love-Rhodes@parks.nyc.gov&quot;&gt;Anthony Love-Rhodes&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M047 </Prop_ID>
+   <name> Thomas Jefferson Recreation Center </name>
+   <address> 2180 1st Avenue </address>
+   <cross_streets> at 112th Street </cross_streets>
+   <description> Thomas Jefferson Park&#8217;s facilities were expanded in the 1930s according to the vision of Parks Commissioner Robert Moses. Its grand opening on June 27, 1936 marked the dedication of the second of ten pools to open that summer. Ten thousand people attended the ceremony celebrating &quot;the last word in engineering, hygiene and construction.&quot; Almost 70 years later, thousands of area residents still enjoy the pool during the summer and innovative afterschool programming for children and teens and athletics for all ages offered throughout the year. </description>
+   <by_car />
+   <by_subway> Take the 6 train to 110th Street. Walk east to 1st Avenue and then walk north 2 blocks. </by_subway>
+   <by_bus />
+   <phone> (212) 860-1383 </phone>
+   <fax />
+   <manager> John Falzon </manager>
+   <deputy_manager />
+   <coordinator> Julius Kirkman </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> M103 </Prop_ID>
+   <name> Tony Dapolito Recreation Center </name>
+   <address> 1 Clarkson Street </address>
+   <cross_streets> at 7th Avenue </cross_streets>
+   <description> This building is named in honor of Anthony V. Dapolito (1920-2003), a long-time chair of Community Board 2, whose roots in the community and tireless work on its behalf earned him the honorary title, &quot;Mayor of Greenwich Village.&quot; The Tony Dapolito Recreation Center serves as a year-round hub for many in and around the neighborhood. In addition to providing fitness facilities, it hosts youth and adult athletic leagues, after-school programs, a summer day camp, fitness classes and many other activities. </description>
+   <by_car> Take 7th Avenue until you reach Clarkson Street. The center is on the North-West corner of this intersection. </by_car>
+   <by_subway> Take the 1 train to Houston Street. Walk one block North to Clarkson Street. </by_subway>
+   <by_bus />
+   <phone> (212) 242-5228 </phone>
+   <fax />
+   <manager />
+   <deputy_manager />
+   <coordinator> &lt;a href=&quot;m&quot;&gt;Laira.Reid@parks.nyc.gov&lt;/a&gt; </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> Q099-NMD01 </Prop_ID>
+   <name> Al Oerter Recreation Center </name>
+   <address> 131-40 Fowler Avenue </address>
+   <cross_streets> at Avery Ave </cross_streets>
+   <description> Named for the four time Olympic Champion in the discus throw, the Al Oerter Recreation Center opened its doors in November 2008.  The computer resource center is staff by an instructor and provides technology training courses for adults, seniors, and youth. Special youth programs include &lt;a href=&quot;/sub_things_to_do/crc/recyouth/recyouth_index.html&quot;&gt;RECYouth&lt;/a&gt;  and &lt;a href=&quot;/sub_things_to_do/crc/programs.html&quot;&gt;After School CRC&lt;/a&gt;. </description>
+   <by_car> &lt;strong&gt;From NYC:&lt;/strong&gt; Take the Triborough Bridge to the Grand Central Parkway East. Get off at Exit 9E. Take the Rt-25A E/Northern Boulevard ramp toward Shea Stadium.  At the exit ramp, make a right onto Stadium Road. At the second stop make a left. Continue past the USTA National Tennis Center and Pitch &#38; Putt Golf. Make a left. Continue straight past Avery Avenue (on your left) and you will see the Recreation Center.&lt;br /&gt;
+&lt;strong&gt;From Long Island:&lt;/strong&gt; Take the LIE/I-495 W and exit at College Point Boulevard, just before the Grand Central Parkway. Take College Point Boulevard to Avery Ave and make a left.  Follow Avery Avenue to stop sign and make a left.  The Recreation Center will be on your left side. </by_car>
+   <by_subway> Take the 7 train to Shea Stadium/Willets Point Station. Walk down the ramp to the left.  Follow road past the Golf Course.  It is approximately an 8-minute walk. </by_subway>
+   <by_bus> Take the Q58 to the corner of College Point Boulevard &#38; Fowler Avenue. Walk North on Fowler Avenue to the front of the Recreation Center. </by_bus>
+   <phone> (718) 353-7853 </phone>
+   <fax />
+   <manager> Dannette Leininger </manager>
+   <deputy_manager />
+   <coordinator> Samantha Cornwell </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> X104 </Prop_ID>
+   <name> Williamsbridge Oval Recreation Center </name>
+   <address> 3225 Reservoir Oval </address>
+   <cross_streets> East 208th St. &amp; Bainbridge Ave. </cross_streets>
+   <description> Williamsbridge Oval was opened on September 11, 1937 by Parks Commissioner Robert Moses. Today, Williamsbridge Oval Park boasts a 22 acre playground. The Center creates an intimate setting with programs for pre-school children, youths, adults, and seniors often happening in conjunction with one another. </description>
+   <by_car> West Side Hwy/NY-9a N/12th Ave. Continue to follow NY-9A N (Portions toll). Merge onto Mosholu Pkwy S via Exit 24. Turn Left onto W Gun Hill Rd. Turn right onto Wayne Ave. Turn right onto Williamsbridge Oval/Reservoir Oval W. </by_car>
+   <by_subway> Take the D train to the last stop, Norwood/205 St. stop. Walk north on Bainbridge Avenue until 208th Street. </by_subway>
+   <by_bus />
+   <phone> (718) 654-1851 </phone>
+   <fax />
+   <manager> Kathy Walker </manager>
+   <deputy_manager />
+   <coordinator> Albert Davis </coordinator>
+  </facility>
+  <facility>
+   <Prop_ID> B087 </Prop_ID>
+   <name> Sunset Park Recreation Center </name>
+   <address> 43rd Street </address>
+   <cross_streets> at 7th Avenue </cross_streets>
+   <description> Sunset Park derives its name from its vantage point on a hill facing west toward Upper New York Bay. The bluff of Sunset Park affords a thrilling view of the harbor, including the rugged skyline of Manhattan, the inspiring Statue of Liberty, the green hills of Staten Island and New Jersey, and the diverse neighborhoods of Brooklyn. The Sunset Park Pool and Play Center was opened in 1936 as part of a massive Works Progress Administration (WPA) capital construction program. Sunset Pool was one of eleven outdoor public pools that opened throughout New York City in one summer. Sunset Park Recreation Center remains an important hub of the community today. </description>
+   <by_car> Take FDR Drive South to the Brooklyn Bridge. After crossing bridge, stay straight until Atlantic Avenue. Turn left on Atlantic, turn right on 4th Avenue, turn left on 43rd Street. </by_car>
+   <by_subway> Take the B or M train to 9th Avenue or take the R train to 45th Street. Walk to 43rd Street and 7th Avenue. </by_subway>
+   <by_bus> Take the B63 to 5th Ave and 43rd St. Take the B35 to 7th Ave and 39th St. </by_bus>
+   <phone> (718) 965-6533 </phone>
+   <fax />
+   <manager />
+   <deputy_manager />
+   <coordinator />
+  </facility>
+ </facilities>
+
+</publiccomputerresourcecenter>

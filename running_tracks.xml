@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<runningtracks xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_RunningTracks_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X030 </Prop_ID>
+   <Name> Macombs Dam </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Mondo </RunningTracks_Type>
+   <Location> 161st and Deegan (the south side of the Macombs Dam Bridge) </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X039 </Prop_ID>
+   <Name> Pelham Bay Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Mondo </RunningTracks_Type>
+   <Location> Bruckner Boulevard &amp; Eastchester Bay </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt Park </Name>
+   <Size> 1.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> West 240 Street to City Line </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X118 </Prop_ID>
+   <Name> Soundview Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Asphalt </RunningTracks_Type>
+   <Location> Lafayette &amp; Colgate avenues </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X045 </Prop_ID>
+   <Name> St. Mary's Park </Name>
+   <Size> 0.12 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> East 145th Street &amp; Jackson Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt Park </Name>
+   <Size> 3.0 </Size>
+   <RunningTracks_Type> Cross Country </RunningTracks_Type>
+   <Location> West 240 Street to City Line </Location>
+  </facility>
+  <facility>
+   <Prop_ID> X104 </Prop_ID>
+   <Name> Williamsbridge Playground </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Mondo </RunningTracks_Type>
+   <Location> Van Cortlandt &amp; Bainbridge </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B008 </Prop_ID>
+   <Name> Betsy Head Memorial Playground </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> Off Strauss Street &amp; Dumont Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B058 </Prop_ID>
+   <Name> McCarren Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> Lorimer Street, Union &amp; Driggs Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B126 </Prop_ID>
+   <Name> Red Hook Recreation Area </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> Bay, Hicks &amp; Henry streets </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B129 </Prop_ID>
+   <Name> Leon S. Kaiser Playground </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Mondo </RunningTracks_Type>
+   <Location> Bayview, Coney Island Creek </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B192 </Prop_ID>
+   <Name> Fort Hamilton HS Athletic Field </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> 85th Street between Colonial Road and Narrows Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B214 </Prop_ID>
+   <Name> JHS 166, Linden Playground </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Mondo </RunningTracks_Type>
+   <Location> Linden Boulevard &amp; Stanley Avenue, Vermont to Wyona streets </Location>
+  </facility>
+  <facility>
+   <Prop_ID> B254 </Prop_ID>
+   <Name> George Wingate HS Playground </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber </RunningTracks_Type>
+   <Location> Winthrop Street, Center &amp; South </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M047 </Prop_ID>
+   <Name> Thomas Jefferson Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> 113 Street and 1st Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M071 </Prop_ID>
+   <Name> Riverside Park </Name>
+   <Size> 0.125 </Size>
+   <RunningTracks_Type> Cinder </RunningTracks_Type>
+   <Location> West 73 Street &amp; Riverside Park </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M104 </Prop_ID>
+   <Name> Randall's Island </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> Inside Icahn Stadium </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M130 </Prop_ID>
+   <Name> East 54th Street Recreation Center </Name>
+   <Size> 0.04 </Size>
+   <RunningTracks_Type> Indoor </RunningTracks_Type>
+   <Location> 342 East 54 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M131 </Prop_ID>
+   <Name> Hansborough Recreation Center </Name>
+   <Size> 0.03 </Size>
+   <RunningTracks_Type> Indoor </RunningTracks_Type>
+   <Location> 35 West 134 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M144 </Prop_ID>
+   <Name> East River Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Rubber Coated All Weather </RunningTracks_Type>
+   <Location> East 6 Street &amp; FDR Drive </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q004 </Prop_ID>
+   <Name> Astoria Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> Astoria South &amp; 18 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q015-05 </Prop_ID>
+   <Name> Forest Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> Myrtle Avenue &amp; Woodhaven Boulevard </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q031 </Prop_ID>
+   <Name> Windmuller Park </Name>
+   <Size> 0.10 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> 39 Drive &amp; 52 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q102 </Prop_ID>
+   <Name> Juniper Valley Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Cinder </RunningTracks_Type>
+   <Location> Juniper Boulevard &amp; 71 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q121 </Prop_ID>
+   <Name> Det. Keith Williams Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> 173 Street &amp; 105 Avenue </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q448 </Prop_ID>
+   <Name> Roy Wilkins Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> Baisley &amp; Merrick boulevards </Location>
+  </facility>
+  <facility>
+   <Prop_ID> R109 </Prop_ID>
+   <Name> Corporal Thompson Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> Synthetic </RunningTracks_Type>
+   <Location> Broadway between Henderson Avenue and Richmond Terrace </Location>
+  </facility>
+  <facility>
+   <Prop_ID> Q005 </Prop_ID>
+   <Name> Baisley Park </Name>
+   <Size> 0.25 </Size>
+   <RunningTracks_Type> All Weather </RunningTracks_Type>
+   <Location> North Conduit, Baisley Boulevard &amp; 150 Street </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M079 </Prop_ID>
+   <Name> St. Catherine&#8217;s Park </Name>
+   <Size> 0.07 </Size>
+   <RunningTracks_Type> Asphalt </RunningTracks_Type>
+   <Location> 1 Avenue and East 67 to 68 streets </Location>
+  </facility>
+  <facility>
+   <Prop_ID> M103 </Prop_ID>
+   <Name> Tony Dapolito Recreation Center </Name>
+   <Size> 0.03 </Size>
+   <RunningTracks_Type> Indoor </RunningTracks_Type>
+   <Location> 3 Clarkson Street </Location>
+  </facility>
+ </facilities>
+
+</runningtracks>

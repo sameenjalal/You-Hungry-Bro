@@ -1,0 +1,445 @@
+body  {
+	background:	#dddddd;
+	font-size: 13px;
+	font-family: Arial, Arial, Helvetica, sans-serif;
+	line-height: 150%;
+
+	/* Body should have 0 padding and margins */
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #6699aa;
+	font-size: 36px;
+	font-weight: normal;
+	font-height: 100%;
+	text-align: center;
+}
+
+h2 {
+	color: #009999;
+	font-size: 30px;
+	font-weight: normal;
+	font-height: 100%;
+	line-height: 100%;
+}
+
+h3 {
+	color: #6699cc;
+	font-size: 24px;
+	font-weight: normal;
+	font-height: 100%;
+}
+
+p {
+	font-size: 12;
+}
+
+.section {
+	width: 600px;
+}
+
+.title {
+	font-style: italic;
+}
+
+cite {
+	font-style: normal;
+}
+
+#wrapper {
+	background: #fff;
+	width: 900px;
+	border: solid #6699aa 1px;
+	position: center;
+
+	/* Stick to this padding and margin for the wrapper */
+	padding: 0 30px;
+	margin: 21px auto;
+}
+
+#footer {
+	text-decoration: overline; 
+	text-align: center;
+	clear: both;
+}
+
+#sitenav {
+	width: 610px;
+	border: solid #8a8a8a 0px;
+	border-bottom: 1px solid #6699aa;
+	padding: 0;
+	padding-top: 16px;
+	font-size: 6px;
+}
+
+#subnav {
+	border: solid #8a8a8a 0px;
+	border-bottom: 1px solid #6699aa;
+	padding: 0;
+	padding-bottom: 12px;
+}
+
+#ewp #subnav_unique {
+	width: 600px;
+	padding-bottom: 12px;
+	border-top: 1px solid #6699aa;
+}
+
+#ewp2 #subnav_unique {
+	width: 600px;
+	padding-bottom: 12px;
+	border-top: 1px solid #6699aa;
+}
+
+#subnav li {
+	font-size: 120%;
+	font-weight: bold;
+	padding: 1px;
+}
+
+#sitenav li {
+	display: inline;
+	list-style-type: none;
+	font-size: 20px;
+	padding: 14px;
+}
+
+li {
+	margin: 0 0 1em;
+}
+
+#sitenav a {
+	color: green;
+	text-decoration: none;
+}
+
+#sitenav a:hover {
+	color: blue;
+	text-decoration: none;
+}
+
+#sitenav a:active {
+	color: blue;
+	text-decoration: none;
+}
+
+#sitenav a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a {
+	color: #009966;
+	text-decoration: none;
+}
+
+#ewp li {
+	list-style-type: none;
+}
+
+#ewp2 li {
+	list-style-type: none;
+}
+
+#ewp #header {
+	padding-top: 28px;
+}
+
+#ewp .gallery {
+	border: solid red 1px;
+}
+
+#ewp .figure {
+	width: 264px;
+	border: solid green 0px;
+	float: left;
+	height: 230px;
+	margin-right: 24px;
+}
+
+#ewp .figure img {
+	border: none;
+}
+
+.figure {
+	margin: 0 0 3em;
+}
+
+.figure img {
+	border: none;
+}
+
+.figure p {
+	color: green;
+}
+
+#intro {
+	width: 580px;
+	margin: 0 0 3em;
+}
+
+#review #intro {
+	width: 580px;
+	margin: 0 0 3em;
+}
+
+#review #main {
+	width: 600px;
+}
+
+#review #sidebar {
+	padding-top: 7%;
+	width: 300px;
+	background: white;
+	float: right;
+}
+
+#review .blurbs {
+	width: 260px;
+}
+
+#review .blurbs ul {
+	width: 260;
+	float: right;
+}
+
+#review #content {
+	float: left;
+	background: white;
+	width: 500px;
+}
+
+#review #header {
+	padding-top: 28px;
+}
+
+#home {
+	background-image: url('images/home/home_background.jpg');
+}
+
+#home h1 {
+	font-size: 350%;
+}
+
+#home body{
+	position: center;
+	line-height: 150%;
+
+	/* Body should have 0 padding and margins */
+	margin: 0;
+	padding: 0;
+}
+
+#home #header {
+	position: center;
+	width: 600px;
+	position: center;
+
+	padding: 0 10px;
+	margin: 21px auto;
+}
+
+#home #content {
+	background: #fff;
+	width: 600px;
+	border: solid #6699aa 1px;
+	position: center;
+
+	/* Stick to this padding and margin for the wrapper */
+	padding: 0 30px;
+	margin: 21px auto;
+}
+
+#home #footer a {
+	color: #000066;
+}
+
+#home #footer a:hover {
+	color: red;
+}
+
+/* clearfix css should be at bottom of CSS file*/
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+#ewp2 #header {
+	padding-top: 28px;
+}
+
+#ewp2 #gallery {
+	position: relative;
+	/*Add a height attribute and set to largest image's height to prevent overlaying*/
+}
+
+#places #gallery {
+	position: relative;
+}
+
+#places #box {
+	background: none;
+	border: none;
+	padding-top: 840px;
+	padding-right: 400px;
+}
+
+#places #content {
+	width: 620px;
+}
+
+#ewp2 .thumbnail img, #places .thumbnail img {
+	border: 1px solid white;
+	margin: 0 5px 5px 0;
+}
+
+#ewp2 .thumbnail:hover, #places .thumbnail:hover {
+	background-color: transparent;
+}
+
+#ewp2 .thumbnail:hover img, #places .thumbnail:hover img {
+	border: 1px solid blue;
+}
+
+#ewp2 .thumbnail span, #places .thumbnail span { /*CSS for enlarged image*/
+	position: absolute;
+	background-color: gray;
+	padding: 5px;
+	left: -5000px;
+	border: 1px dashed gray;
+	visibility: hidden;
+	color: black;
+	text-decoration: none;
+}
+
+#ewp2 .thumbnail span img, #places .thumbnail span img { /*CSS for enlarged image*/
+	border-width: 0;
+	padding: 2px;
+}
+
+#ewp2 .thumbnail:hover span, #places .thumbnail:hover span { /*CSS for enlarged image*/
+	visibility: visible;
+	top: 0;
+	left: 230px; /*position where enlarged image should offset horizontally */
+	z-index: 50;
+}
+
+#feedback #header {
+	padding-top: 28px;
+}
+
+#feedback #content {
+	width: 560px;
+}
+
+#feedback #header {
+	width: 600px;
+}
+
+#feedback select { 
+	background-color: #006699; 
+	color: #ffffff; 
+}
+
+#feedback #submit, #reset {
+	font-size: 14px;
+}
+
+#frp #header {
+	padding-top: 28px;
+}
+
+#frp #subnav {
+	width: 600px;
+}
+
+#frp #subnav li {
+	list-style-type: none;
+	padding-left: 16px;
+}
+
+#feedback #your {
+	border: solid #6699aa 1px;
+	padding: 16px;
+}
+
+#feedback #opinion {
+	border: solid #6699aa 1px;
+	padding: 16px;
+}
+
+#feedback #submit {
+	width: 100px;
+	float: left;
+	padding-bottom: 24px;
+}
+
+#feedback #reset {
+	width: 420px;
+	float: right;
+}
+
+#bio #header {
+	padding-top: 16px;
+	width: 900px;
+}
+
+#places #header {
+	padding-top: 16px;
+}
+
+#bio #subnav {
+	width: 600px;
+}
+
+#bio #content {
+	width: 600px;
+}
+
+#bio #subnav li {
+	padding-left: 16px;
+	list-style-type: none;
+	padding-top: 16px;
+}	
+
+#bio #subnav {
+	padding-top: 20px;
+	padding-bottom: 67px;
+}
+
+#bio #h {
+	padding-top: 12px;
+}
+
+#bio #me {
+	float: right;
+}
+
+#places .display_box {
+	height: 420px;
+	width: 380px;
+	border: solid gray 1px;
+	margin-left: 200px;
+}

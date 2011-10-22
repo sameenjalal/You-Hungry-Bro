@@ -1,0 +1,946 @@
+<?xml version="1.0"?>
+<pools xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Pools_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X008 </Prop_ID>
+   <Name> Claremont </Name>
+   <Location> 170th Street and Clay Avenue </Location>
+   <Phone> (718) 901-4792 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X010 </Prop_ID>
+   <Name> Crotona </Name>
+   <Location> 173rd Street and Fulton Avenue </Location>
+   <Phone> (718) 822-4440 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 330' x 120' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X196 </Prop_ID>
+   <Name> Haffen </Name>
+   <Location> Ely and Burke Avenues </Location>
+   <Phone> (718) 379-2908 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X289 </Prop_ID>
+   <Name> Mapes </Name>
+   <Location> E. 180th Street between Mapes &#38; Prospect Avenues </Location>
+   <Phone> (718) 364-8876 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X034 </Prop_ID>
+   <Name> Mullaly </Name>
+   <Location> E. 164th St. bet. Jerome &#38; River Aves. </Location>
+   <Phone> (718) 538-7083 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt </Name>
+   <Location> W. 242nd St. and Broadway </Location>
+   <Phone> (718) 548-2415 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 164' x 104' x 3.6' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X045 </Prop_ID>
+   <Name> St. Mary's </Name>
+   <Location> St. Ann's Avenue and E. 145th Street </Location>
+   <Phone> (718) 402-5157 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 72' x 39' x 9' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X008 </Prop_ID>
+   <Name> Claremont </Name>
+   <Location> 170th Street and Clay Avenue </Location>
+   <Phone> (718) 901-4792 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X196 </Prop_ID>
+   <Name> Haffen </Name>
+   <Location> Ely and Burke Avenues </Location>
+   <Phone> (718) 379-2908 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24 x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X289 </Prop_ID>
+   <Name> Mapes </Name>
+   <Location> 180th Street &#38; Prospect Avenue </Location>
+   <Phone> (718) 364-8876 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 27' x 27' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X034 </Prop_ID>
+   <Name> Mullaly </Name>
+   <Location> 164th St. bet. Jerome &#38; River Avenues </Location>
+   <Phone> (718) 538-7083 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X092 </Prop_ID>
+   <Name> Van Cortlandt </Name>
+   <Location> W. 242nd St. and Broadway </Location>
+   <Phone> (718) 548-2415 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 48' x 48' x 1' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X159 </Prop_ID>
+   <Name> Bronx River Playground </Name>
+   <Location> E. 174th Street &#38; Bronx River Avenue </Location>
+   <Phone> (718) 378-1597 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X165 </Prop_ID>
+   <Name> Edenwald Houses </Name>
+   <Location> Schieffelin Avenue &#38; E. 229th Street </Location>
+   <Phone> (718) 515-2160 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B008 </Prop_ID>
+   <Name> Betsy Head </Name>
+   <Location> Boyland, Livonia and Dumont Avenues </Location>
+   <Phone> (718) 965-6581 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 330' x 165' x 4.25 </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B310 </Prop_ID>
+   <Name> Bushwick </Name>
+   <Location> Humboldt Street, Flushing &#38; Bushwick Avenues </Location>
+   <Phone> (718) 452-2116 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B021 </Prop_ID>
+   <Name> Commodore Barry </Name>
+   <Location> Flushing and Park Avenues, Navy and North Elliot Streets </Location>
+   <Phone> (718) 243-2593 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B145 </Prop_ID>
+   <Name> Douglas and DeGraw </Name>
+   <Location> Third Avenue and Nevins Street </Location>
+   <Phone> (718) 625-3268 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B260 </Prop_ID>
+   <Name> Howard </Name>
+   <Location> Glenmore and Mother Gaston Blvd., East New York Avenue </Location>
+   <Phone> (718) 385-1023 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B398 </Prop_ID>
+   <Name> Kosciusko </Name>
+   <Location> Kosciusko between Marcy and Dekalb Avenues </Location>
+   <Phone> (718) 622-5271 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 230' x 100' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B126 </Prop_ID>
+   <Name> Red Hook </Name>
+   <Location> Bay and Henry Streets </Location>
+   <Phone> (718) 722-3211 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 330' x 130' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B087 </Prop_ID>
+   <Name> Sunset Park </Name>
+   <Location> Seventh Avenue between 41st and 44th Streets </Location>
+   <Phone> (718) 965-6578 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 259' x 162' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B270 </Prop_ID>
+   <Name> Brownsville </Name>
+   <Location> Linden and Mother Gaston Blvds. and Christopher Avenue </Location>
+   <Phone> (718) 485-4633 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75' x 30' x 8' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B085 </Prop_ID>
+   <Name> Metropolitan </Name>
+   <Location> Bedford and Metropolitan Avenues </Location>
+   <Phone> (718) 599-5707 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75'x30' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B245 </Prop_ID>
+   <Name> St. John's </Name>
+   <Location> Prospect Place, between Troy and Schenectady Avenues </Location>
+   <Phone> (718) 771-2787 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75' x 42' x 9' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B310 </Prop_ID>
+   <Name> Bushwick </Name>
+   <Location> Humboldt Street, Flushing &#38; Bushwick Avenues </Location>
+   <Phone> (718) 452-2116 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 30' x 20' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B021 </Prop_ID>
+   <Name> Commodore Barry </Name>
+   <Location> Flushing and Park Avenues, Navy and North Elliot Streets </Location>
+   <Phone> (718) 243-2593 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B145 </Prop_ID>
+   <Name> Douglas and DeGraw </Name>
+   <Location> Third Avenue and Nevins Street </Location>
+   <Phone> (718) 625-3268 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B260 </Prop_ID>
+   <Name> Howard </Name>
+   <Location> Glenmore and Mother Gaston Blvd., East New York Avenue </Location>
+   <Phone> (718) 385-1023 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 30' x 20' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B398 </Prop_ID>
+   <Name> Kosciusko </Name>
+   <Location> Kosciusko between Marcy and Dekalb Avenues </Location>
+   <Phone> (718) 622-5271 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 42' x 52' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B248 </Prop_ID>
+   <Name> David Fox/PS 251 </Name>
+   <Location> E. 54th Street &#38; Avenue H </Location>
+   <Phone> (718) 531-2437 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B236 </Prop_ID>
+   <Name> Glenwood Houses </Name>
+   <Location> Farragut Road &#38; Ralph Avenue </Location>
+   <Phone> (718) 531-2480 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B269 </Prop_ID>
+   <Name> JHS 57/HS 26 </Name>
+   <Location> 117 Stuyvesant Avenue </Location>
+   <Phone> (718) 452-0519 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3'&#160; </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B329 </Prop_ID>
+   <Name> Lindower Park </Name>
+   <Location> E. 60th St, Mill Rd. &#38; Strickland Avenue </Location>
+   <Phone> (718) 531-4852 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> B253 </Prop_ID>
+   <Name> PS 20 Playground </Name>
+   <Location> Between Clermont Ave. &#38; Adelphi St. </Location>
+   <Phone> (718) 625-6101 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M164 </Prop_ID>
+   <Name> Asser Levy </Name>
+   <Location> Asser Levy Place and E. 23rd Street </Location>
+   <Phone> (212) 447-2020 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 120' x 45' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M103 </Prop_ID>
+   <Name> Tony Dapolito </Name>
+   <Location> Clarkson St. and Seventh Ave. South </Location>
+   <Phone> (212) 242-5228 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 100' x 50' x 9' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M270 </Prop_ID>
+   <Name> Dry Dock </Name>
+   <Location> E. 10th St. between Aves. C and D </Location>
+   <Phone> (212) 677-4481 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M033 </Prop_ID>
+   <Name> Hamilton Fish </Name>
+   <Location> Pitt Street and Houston Street </Location>
+   <Phone> (212) 387-7687 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 165' x 98' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M037 </Prop_ID>
+   <Name> Highbridge </Name>
+   <Location> Amsterdam Ave. and W. 173rd Street </Location>
+   <Phone> (212) 927-2400 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 220' x 162' x 10.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M014 </Prop_ID>
+   <Name> Jackie Robinson </Name>
+   <Location> Bradhurst Avenue and W. 146th Street </Location>
+   <Phone> (212) 234-9606 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 235' x 82' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M045 </Prop_ID>
+   <Name> John Jay </Name>
+   <Location> East of York Avenue on 77th St. </Location>
+   <Phone> (212) 794-6566 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 145' x 49' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Lasker </Name>
+   <Location> 110th Street &#38; Lenox Avenue </Location>
+   <Phone> (212-534-7639) </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 240 'x 190' x 3.75' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M058 </Prop_ID>
+   <Name> Marcus Garvey </Name>
+   <Location> 124th Street and Fifth Avenue </Location>
+   <Phone> (212) 410-2818 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 165' x 75' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M190 </Prop_ID>
+   <Name> Sheltering Arms </Name>
+   <Location> W. 129th Street and Amsterdam Ave. </Location>
+   <Phone> (212) 662-6191 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M047 </Prop_ID>
+   <Name> Thomas Jefferson </Name>
+   <Location> E. 112th Street and First Avenue </Location>
+   <Phone> (212) 860-1372 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 239' x 97' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M273 </Prop_ID>
+   <Name> Wagner </Name>
+   <Location> E. 124th Street between First and Second Avenues </Location>
+   <Phone> (212) 534-4238 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M164 </Prop_ID>
+   <Name> Asser Levy </Name>
+   <Location> Asser Levy Place and E. 23rd Street </Location>
+   <Phone> (212) 447-2020 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 66' x 26' x 8' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M260 </Prop_ID>
+   <Name> Chelsea </Name>
+   <Location> West 25th St. between 9th &#38; 10th Aves </Location>
+   <Phone> (212) 255-3705 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75' x 43' x 10' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M103 </Prop_ID>
+   <Name> Tony Dapolito </Name>
+   <Location> Clarkson St. and Seventh Ave. South </Location>
+   <Phone> (212) 242-5228 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 70' x 21' x 8' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M131 </Prop_ID>
+   <Name> Hansborough </Name>
+   <Location> 134th St. between Fifth &#38; Lenox Aves. </Location>
+   <Phone> (212) 234-9603 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75' x 35' x 9' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M130 </Prop_ID>
+   <Name> Recreation Center 54 </Name>
+   <Location> E. 54th St. bet. First and Second Aves. </Location>
+   <Phone> (212) 754-5411 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 54' x 50' x 12' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M164 </Prop_ID>
+   <Name> Asser Levy </Name>
+   <Location> Asser Levy Place and E. 23rd Street </Location>
+   <Phone> (212) 447-2020 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 41.67' x 25' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M270 </Prop_ID>
+   <Name> Dry Dock </Name>
+   <Location> E. 10th St. between Aves. C and D </Location>
+   <Phone> (212) 677-4481 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 30' x 20' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M033 </Prop_ID>
+   <Name> Hamilton Fish </Name>
+   <Location> Pitt Street and Houston Street </Location>
+   <Phone> (212) 387-7691 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 67' x 98' x 2.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M037 </Prop_ID>
+   <Name> Highbridge </Name>
+   <Location> Amsterdam Ave. and W. 173rd Street </Location>
+   <Phone> (212) 927-2400 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 220' x 92' x 2' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Lasker </Name>
+   <Location> 110th Street &#38; Lenox Avenue </Location>
+   <Phone> (212-534-7639) </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 63.5' x 14.5' x 1.25' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M190 </Prop_ID>
+   <Name> Sheltering Arms </Name>
+   <Location> W. 129th Street and Amsterdam Ave. </Location>
+   <Phone> (212) 662-6191 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 30' x 20' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M047 </Prop_ID>
+   <Name> Thomas Jefferson </Name>
+   <Location> E. 112th Street and First Avenue </Location>
+   <Phone> (212) 860-1372 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 48' x 97' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M273 </Prop_ID>
+   <Name> Wagner </Name>
+   <Location> E. 124th Street between First and Second Avenues </Location>
+   <Phone> (212) 534-4238 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 9 </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M193 </Prop_ID>
+   <Name> Abe Lincoln </Name>
+   <Location> 5th Avenue &#38; E. 135th Street </Location>
+   <Phone> (212) 491-1714 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q441 </Prop_ID>
+   <Name> Fisher </Name>
+   <Location> 99th Street and 32nd Avenue </Location>
+   <Phone> (718) 779-8356 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 20' x 20' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M220 </Prop_ID>
+   <Name> Frederick Douglass </Name>
+   <Location> Amsterdam Ave. between 100th &#38; 102nd Streets </Location>
+   <Phone> (212) 316-3241 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M069 </Prop_ID>
+   <Name> Thompson Street </Name>
+   <Location> Thompson St. between Spring &#38; Prince Streets </Location>
+   <Phone> (212) 343-0959 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M088 </Prop_ID>
+   <Name> Tompkins Square </Name>
+   <Location> Ave. A between E. 7th &#38; E. 10th Streets </Location>
+   <Phone> (212) 387-6784 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M103 </Prop_ID>
+   <Name> Tony Dapolito </Name>
+   <Location> Clarkson St. and Seventh Ave. South </Location>
+   <Phone> (212) 242-5228 </Phone>
+   <Pools_Type> Diving </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 35' x 47' x 9' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> M045 </Prop_ID>
+   <Name> John Jay </Name>
+   <Location> East of York Avenue on 77th St. </Location>
+   <Phone> (212) 794-6566 </Phone>
+   <Pools_Type> Diving </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 60' x 40' x 8' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q004 </Prop_ID>
+   <Name> Astoria </Name>
+   <Location> 19th Street and 23rd Drive </Location>
+   <Phone> (718) 626-8620 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 330' x 165' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q441 </Prop_ID>
+   <Name> Fisher </Name>
+   <Location> 99th Street and 32nd Avenue </Location>
+   <Phone> (718) 779-8356 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q121 </Prop_ID>
+   <Name> Liberty </Name>
+   <Location> 173rd Street and 106th Avenue </Location>
+   <Phone> (718) 657-4995 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q458 </Prop_ID>
+   <Name> Fort Totten </Name>
+   <Location> 338 Story Avenue </Location>
+   <Phone> (718) 224-4031 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 40' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q448 </Prop_ID>
+   <Name> Roy Wilkins </Name>
+   <Location> 177th Street and Baisley Boulevard </Location>
+   <Phone> (718) 276-4630 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 75' x 30' x 9' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q121 </Prop_ID>
+   <Name> Liberty </Name>
+   <Location> 173rd Street and 106th Avenue </Location>
+   <Phone> (718) 657-4995 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 20' x 20' x 1' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q458 </Prop_ID>
+   <Name> Fort Totten </Name>
+   <Location> 338 Story Avenue </Location>
+   <Phone> (718) 224-4031 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 20' (round) x 1.5' </Size>
+   <Accessible />
+  </facility>
+  <facility>
+   <Prop_ID> Q364 </Prop_ID>
+   <Name> Marie Curie Park </Name>
+   <Location> 211th Street &#38; 46th Avenue </Location>
+   <Phone> (718) 423-0762 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q014 </Prop_ID>
+   <Name> PS 10 </Name>
+   <Location> 45th Street &#38; 30th Road </Location>
+   <Phone> (718) 777-7599 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q327 </Prop_ID>
+   <Name> PS 186 Playground </Name>
+   <Location> Little Neck Parkway &#38; 72nd Avenue </Location>
+   <Phone> (718) 347-2945 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q031 </Prop_ID>
+   <Name> Windmuller </Name>
+   <Location> 54th Street &#38; 39th Road </Location>
+   <Phone> (718) 651-8247 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q458 </Prop_ID>
+   <Name> Fort Totten </Name>
+   <Location> 338 Story Avenue </Location>
+   <Phone> (718) 224-4031 </Phone>
+   <Pools_Type> Diving </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 35' x 35' x 8.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R008 </Prop_ID>
+   <Name> Faber </Name>
+   <Location> Faber Street and Richmond Terrace </Location>
+   <Phone> (718) 816-5259 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 140' x 76' x 5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R043 </Prop_ID>
+   <Name> Lyons </Name>
+   <Location> Pier 6 and Victory Boulevard </Location>
+   <Phone> (718) 816-9571 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 165' x 100' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R110 </Prop_ID>
+   <Name> Tottenville </Name>
+   <Location> Hylan Boulevard and Joline Avenue </Location>
+   <Phone> (718) 356-8242 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R109 </Prop_ID>
+   <Name> West Brighton </Name>
+   <Location> Henderson Avenue between Broadway and Chappel Streets </Location>
+   <Phone> (718) 816-5019 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 75' x 60' x 3.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R043 </Prop_ID>
+   <Name> Lyons </Name>
+   <Location> Pier 6 &#38; Victory Boulevard </Location>
+   <Phone> (718) 816-9571 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size />
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R110 </Prop_ID>
+   <Name> Tottenville </Name>
+   <Location> Hylan Boulevard and Joline Avenue </Location>
+   <Phone> (718) 356-8242 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' X24' X 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R109 </Prop_ID>
+   <Name> West Brighton </Name>
+   <Location> Henderson Avenue between Broadway and Chappel Streets </Location>
+   <Phone> (718) 816-5019 </Phone>
+   <Pools_Type> Wading </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 24' x 24' x 1.5' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R067 </Prop_ID>
+   <Name> General Douglas </Name>
+   <Location> Jefferson Street &#38; Seaver Avenue </Location>
+   <Phone> (718) 987-9800 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R068 </Prop_ID>
+   <Name> Mariner's Harbor Playground </Name>
+   <Location> Grandview Ave. &#38; Continental Place </Location>
+   <Phone> (718) 982-6521 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R061 </Prop_ID>
+   <Name> PS 14 Playground </Name>
+   <Location> Tompkins Ave. btwn Hill &#38; Broad Sts. </Location>
+   <Phone> (718) 448-5969 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R063 </Prop_ID>
+   <Name> PS 46 Playground </Name>
+   <Location> Parkinson Avenue &#38; Kramer Street </Location>
+   <Phone> (718) 448-8694 </Phone>
+   <Pools_Type> Mini </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 40' x 20' x 3' </Size>
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> R043 </Prop_ID>
+   <Name> Lyons </Name>
+   <Location> Pier 6 &#38; Victory Boulevard </Location>
+   <Phone> (718) 816-9571 </Phone>
+   <Pools_Type> Diving </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size />
+   <Accessible> N </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q099 </Prop_ID>
+   <Name> Flushing Meadows Corona Park Pool &amp; Rink </Name>
+   <Location> Avery Avenue and 131 Street </Location>
+   <Phone> (718) 271-7572 </Phone>
+   <Pools_Type> Olympic </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 164' x 82' x 7.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> Q099 </Prop_ID>
+   <Name> Flushing Meadows Corona Park Pool &amp; Rink </Name>
+   <Location> Avery Avenue and 131 Street </Location>
+   <Phone> (718) 271-7572 </Phone>
+   <Pools_Type> Diving </Pools_Type>
+   <Setting> Indoor </Setting>
+   <Size> 164' x 82' x 12.75'&lt;br /&gt;164' x 82' x 7.5' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+  <facility>
+   <Prop_ID> X307 </Prop_ID>
+   <Name> Floating Pool </Name>
+   <Location> Tiffany Street &amp; Viele Avenue </Location>
+   <Phone> (718) 430-4601 </Phone>
+   <Pools_Type> Intermediate </Pools_Type>
+   <Setting> Outdoor </Setting>
+   <Size> 82' x 52' x 4' </Size>
+   <Accessible> Y </Accessible>
+  </facility>
+ </facilities>
+
+</pools>

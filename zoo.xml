@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<zoos xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Zoos_001.txt">
+ <facilities>
+  <facility>
+   <Prop_ID> X002 </Prop_ID>
+   <Name> The Bronx Zoo </Name>
+   <Location> 2300 Southern Boulevard, Bronx, NY 10460 </Location>
+   <Phone_Num> (718) 367-1010 </Phone_Num>
+  </facility>
+  <facility>
+   <Prop_ID> B073 </Prop_ID>
+   <Name> Prospect Park Wildlife Center </Name>
+   <Location> 450 Flatbush Avenue, Brooklyn, NY 11225 </Location>
+   <Phone_Num> (718) 399-7339 </Phone_Num>
+  </facility>
+  <facility>
+   <Prop_ID> M010 </Prop_ID>
+   <Name> Central Park Wildlife Center &amp; Tisch Children's Zoo </Name>
+   <Location> 5th Avenue &amp; East 64th Street, New York, NY 10021 </Location>
+   <Phone_Num> (212) 439-6500 </Phone_Num>
+  </facility>
+  <facility>
+   <Prop_ID> Q099 </Prop_ID>
+   <Name> Queens Wildlife Center </Name>
+   <Location> 53-51 111th Street, Flushing, NY 11368 </Location>
+   <Phone_Num> (718) 271-1500 </Phone_Num>
+  </facility>
+  <facility>
+   <Prop_ID> B169 </Prop_ID>
+   <Name> New York Aquarium </Name>
+   <Location> Surf Avenue &amp; West 8th Street, Brooklyn, NY 11224 </Location>
+   <Phone_Num> (718) 265-3474 </Phone_Num>
+  </facility>
+  <facility>
+   <Prop_ID> R003 </Prop_ID>
+   <Name> Staten Island Zoo </Name>
+   <Location> 614 Broadway </Location>
+   <Phone_Num> (718) 442-3100 </Phone_Num>
+  </facility>
+ </facilities>
+
+</zoos>
